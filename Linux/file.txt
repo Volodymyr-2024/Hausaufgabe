@@ -1,0 +1,1005 @@
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        468M     0  468M   0% /dev
+tmpfs           477M     0  477M   0% /dev/shm
+#!/bin/bash
+echo "Current directory: $(pwd)"
+   45  ls -al
+   46  crontab -e
+   47  pwd
+   48  crontab -e
+   49  ls -al
+   50  cat text.txt
+   51  ls -al
+   52  cat text.txt
+   53  crontab -e
+   54  cat text.txt
+   55  crontab -e
+   56  cat text.txt
+   57  cd 140624-wde
+   58  cd /opt/140624-wde
+   59  mkdir EvMaltseva
+   60  opt/310524-ptm/Serafima
+   61  /opt/310524-ptm/Serafima
+   62  cd /opt/310524-ptm/Serafima
+   63  ls -al
+   64  crontab -e
+   65  cd ..
+   66  ls -al
+   67  cd Serafima
+   68  nano sleeper.sh 
+   69  cat file_hw15.txt
+   70  ls -al
+   71  pwd
+   72  ls -al
+   73  nana sleeper.sh 
+   74  nano sleeper.sh 
+   75  cat file_hm15.txt
+   76  cat sleeper.sh 
+   77  ./sleeper.sh 
+   78  nano sleeper.sh 
+   79  ./sleeper.sh 
+   80  cat file_hm15.txt
+   81  nano sleeper.sh 
+   82  ./sleeper.sh 
+   83  cat file_hm15.txt
+   84  nano sleeper.sh 
+   85  ./sleeper.sh 
+   86  cat file_hm15.txt
+   87  nano sleeper.sh 
+   88  uname -a
+   89  nano sleeper.sh 
+   90  ./sleeper.sh 
+   91  ls -la
+   92  nano sleeper.sh 
+   93  ./sleeper.sh 
+   94  ls -al
+   95  nano sleeper.sh 
+   96  ls -al
+   97  pwd
+   98  cd /opt/310524-ptm/Margarita-Wenzel
+   99  ды .фд
+  100  ls -al
+  101  nano OS_info.sh
+  102  cat /etc/os-release
+  103  cat /etc/os-release | grep PRETTY_NAME > ^C
+  104  ls -al
+  105  pwd
+  106  nano 
+  107  ls -al
+  108  touch text.txt
+  109  ls -al
+  110  nano sleeper.sh 
+  111  nano text.txt
+  112  nano sleeper.sh 
+  113  crontab -e
+  114  nano sleeper.sh
+  115  chmod +x sleeper.sh
+  116  ls -la
+  117  crontab -e
+  118  cat text.txt
+  119  crontab -e
+  120  sleep 60; cat text.txt
+  121  nano sleeper.sh
+  122  cat text.txt
+  123  nano sleeper.sh
+  124  ls -al
+  125  nano sleeper.sh
+  126  ./sleeper.sh
+  127  ls -al
+  128  cd /opt/310524-ptm/Margarita-Wenzel
+  129  reset
+  130  cat sleeper.sh
+  131  cd Serafima
+  132  cd /opt/310524-ptm/Serafima
+  133  nano sleeper.sh 
+  134  exit
+  135  cleaar
+  136  clear
+  137  cd /opt/310524-ptm/
+  138  ls -al
+  139  cd VAndreev/
+  140  ls -al
+  141  cat OS_info.sh 
+  142  cat disk_usage.sh 
+  143  cd
+  144  cd /opt/310524-ptm/ShevchenkoO/
+  145  ls -al
+  146  cd
+  147  ls -al
+  148  cd M
+  149  cd /opt/310524-ptm/
+  150  ls -al
+  151  dc Serafima/
+  152  cd Serafima/
+  153  ls -al
+  154  cat make_Serafima.sh 
+  155  cd /opt/310524-ptm/
+  156  clear
+  157  cd /opt/310524-ptm/Dorves/
+  158  ls -al
+  159  clear
+  160  ls -al
+  161  clear
+  162  ls -al
+  163  clear
+  164  ls -al
+  165  clear
+  166  clera
+  167  clear
+  168  ls -al
+  169  clear
+  170  cleera
+  171  clear
+  172  ls -al
+  173  clear
+  174  ls -al
+  175  clear
+  176  ls -al
+  177  clear
+  178  ls -al
+  179  crontab -e
+  180  ls -al
+  181  cd /opt/310524-ptm/ShevchenkoO/
+  182  ls -al
+  183  cat sleeper.sh 
+  184  cat file.txt 
+  185  cat text.txt
+  186  clear
+  187  nano sleeper.sh 
+  188  ls -al
+  189  clear
+  190  ./sleeper.sh 
+  191  nano sleeper.sh 
+  192  ./sleeper.sh 
+  193  nano sleeper.sh 
+  194  ./sleeper.sh 
+  195  cat file.txt 
+  196  cat text.txt 
+  197  nano sleeper.sh 
+  198  ./sleeper.sh 
+  199  cat text.txt 
+  200  nano sleeper.sh 
+  201  cd /opt/310524-ptm/Dorves/
+  202  cat sleeper.sh 
+  203  cd /opt/310524-ptm/ShevchenkoO/
+  204  nano sleeper.sh 
+  205  ./sleeper.sh 
+  206  cat text.txt 
+  207  nano sleeper.sh 
+  208  ./sleeper.sh 
+  209  ls -al
+  210  nano sleeper.sh 
+  211  pwd
+  212  cd /opt/310524-ptm/Dorves
+  213  nano sleeper.sh
+  214  ls -al
+  215  nano sleeper.sh
+  216  touch Nfile.txt
+  217  ls -al
+  218  nano sleeper.sh
+  219  ls -al
+  220  crontab -e
+  221  nano sleeper.sh
+  222  chmod 775 sleeper.sh
+  223  ls -al
+  224  crontab -e
+  225  ./Nfile
+  226  crontab -e
+  227  ./Nfile.txt
+  228  cat Nfile.txt
+  229  ./Nfile.txt
+  230  cat Nfile.txt
+  231  cd ..
+  232  cat Nfile.txt
+  233  cd Dorves
+  234  cat Nfile.txt
+  235  ./Nfile.txt
+  236  nano sleeper.sh
+  237  cat Nfile.txt
+  238  ./Nfile
+  239  crontab -e
+  240  cat Nfile.txt
+  241  crontab -e
+  242  cat Nfile.txt
+  243  sleep 60; cat Nfile.txt
+  244  crontab -e
+  245  ls -al
+  246  cat errors.txt
+  247  nano sleeper.sh
+  248  crontab -e
+  249  ls -al
+  250  crontab -e
+  251  nano sleeper.sh 
+  252  sleep 60; cat Nfile.txt
+  253  nano sleeper.sh 
+  254  ./sleeper/sh
+  255  ./sleeper.sh
+  256  cat sleeper.sh 
+  257  cat Nfile.txt 
+  258  echo > Nfile.txt 
+  259  pwd
+  260  crontab -e
+  261  cat Nfile.txt 
+  262  nano sleeper.sh 
+  263  crontab -e
+  264  ./sleeper.sh 
+  265  cat Nfile.txt 
+  266  nano sleeper.sh 
+  267  ./sleeper.sh 
+  268  cat Nfile.txt 
+  269  nano sleeper.sh 
+  270  ./sleeper.sh 
+  271  cat Nfile.txt 
+  272  nano sleeper.sh 
+  273  ./sleeper.sh 
+  274  cat Nfile.txt 
+  275  uname -o
+  276  uname -a
+  277  nano sleeper.sh 
+  278  ./sleeper.sh 
+  279  ls -al
+  280  nano sleeper.sh 
+  281  ./sleeper.sh 
+  282  ls -al
+  283  nano sleeper.sh 
+  284  pwd
+  285  w
+  286  who
+  287  w
+  288  nano sleeper.sh 
+  289  cd /opt/150424-wdm/yana/backup/
+  290  cd /opt/150424-wdm/yana
+  291  ls -la
+  292  .hw_20
+  293  /hw_20
+  294  pwd
+  295  du -h /opt/150424-wdm | sort -rh | head
+  296  du -h /opt | sort -rh | head
+  297  du -h /opt/190224-ptm | sort -rh | head
+  298  du -h /opt/190224-ptm/Openiuk | sort -rh | head
+  299  ls -lah /opt/190224-ptm/Openiuk
+  300  du -h /opt/190224-ptm/Openiuk | sort -rh | head
+  301  cd /opt/190224-ptm/Openiuk
+  302  ls -lah /opt/190224-ptm/Openiuk
+  303  du -h /opt/190224-ptm/Openiuk/dumps | sort -rh | head
+  304  .dumps
+  305  ./dumps
+  306  cd /dumps
+  307  cd /opt/190224-ptm/Openiuk/dumps 
+  308  ls -lah
+  309  chmod +rw 190224-ptm_backup_10_11_36.tar.gz
+  310  .190224-ptm_backup_10_11_36.tar.gz
+  311  ./190224-ptm_backup_10_11_36.tar.gz
+  312  ls -lah
+  313  sudo chmod +rw 190224-ptm_backup_10_11_36.tar.gz
+  314  ls -lah
+  315  rm  /190224-ptm_backup_10_11_36.tar.gz
+  316  rm /190224-ptm_backup_10_11_36.tar.gz
+  317  rm -m /opt/190224-ptm/Openiuk/dumps 
+  318  rm -v /opt/190224-ptm/Openiuk/dumps 
+  319  rm -h /opt/190224-ptm/Openiuk/dumps 
+  320  rm --help
+  321  rm -r /opt/190224-ptm/Openiuk/dumps 
+  322  ls -lah
+  323  ..
+  324  cd..
+  325  cd .
+  326  pwd
+  327  cd /opt
+  328  ls -lah
+  329  du -h /opt/190224-ptm/Openiuk/dumps | sort -rh | head
+  330  du -h /opt/190224-ptm/Openiuk | sort -rh | head
+  331  du -h /opt/190224-ptm/ | sort -rh | head
+  332  du -h /opt/ | sort -rh | head
+  333  du -h /opt/ | sort -rh | head -20
+  334  exit
+  335  cd /opt/310524-ptm/Volodymyr/
+  336  ls -la
+  337  nano os_info.sh
+  338  cp os_info.sh hw_15.sh
+  339  nano hw_15.sh
+  340  ls -la
+  341  ./hw_15.sh
+  342  nano hw_15.sh
+  343  nano os_info.sh 
+  344  cat /etc/os-release 
+  345  cat /etc/os-cpu
+  346  cat /etc/os-info
+  347  cat /etc/cpu_info
+  348  cat /etc/cpu-info
+  349  lcpu
+  350  lscpu
+  351  nano hw_15.sh 
+  352  ./hw_15.sh
+  353  ls -la
+  354  cat hw_15.txt
+  355  ls -la
+  356  nano os_info.sh 
+  357  os_version=$(cat /etc/os-release | grep PRETTY_NAME=| cut -d '"' -f 2)
+  358  cat /etc/os-release | grep PRETTY_NAME=| cut -d '"' -f 2
+  359  cat /etc/os-release | cut -d '"' -f 2
+  360  cat /etc/os-release | grep NAME=| cut -d '"' -f 2
+  361  cat /etc/os-release | grep NAME=
+  362  cat /etc/os-release | grep NAME= | head -1
+  363  nano hw_15.sh
+  364  ./hw_15.sh
+  365  nano hw_15.
+  366  nano hw_15.sh
+  367  ./hw_15.sh
+  368  nano hw_15.sh
+  369  cat /etc/os-release | grep 'NAME=' | head -1)
+  370  cat /etc/os-release | grep 'NAME=' | head -1
+  371  nano os_info.sh 
+  372  cat /etc/os-release | grep 'NAME=' | head -1 | cut -d '"' -f 2)
+  373  cat /etc/os-release | grep 'NAME=' | head -1 | cut -d '' -f 2
+  374  cat /etc/os-release | grep 'NAME=' | head -1 | sed -i 's/"//g'
+  375  cat /etc/os-release | grep 'NAME=' | head -1 >> sed -i 's/"//g'
+  376  cat /etc/os-release | grep 'NAME=' | head -1 >> sed 's/"//g'
+  377  cat /etc/os-release | grep 'NAME=' | head -1 | sed 's/"//g'
+  378  nano hw_15.sh
+  379  ./hw_15.sh
+  380  nano hw_15.sh
+  381  ./hw_15.sh
+  382  nano hw_15.sh
+  383  ./hw_15.sh
+  384  cat hw_15.txt
+  385  ./hw_15.sh
+  386  nano hw_15.sh
+  387  cat /etc/os-release | grep NAME= | head -1 | sed 's/"//g' 
+  388  cat /etc/os-release | grep NAME= | head -1 | sed 's
+  389  '
+  390  cat os_info.sh 
+  391  $(cat /etc/os-release | grep PRETTY_NAME=| cut -d '"' -f 1)
+  392  cat /etc/os-release | grep PRETTY_NAME=| cut -d '"' -f 1
+  393  cat /etc/os-release | grep PRETTY_NAME=| cut -d '"' -f 2
+  394  cat /etc/os-release | grep PRETTY_NAME=| cut -d '"' -f 2 | awk '{print $1}'
+  395  nano hw_15.sh
+  396  ./hw_15.sh
+  397  cat hw_15.txt
+  398  nano hw_15.sh
+  399  ./hw_15.sh
+  400  nano hw_15.sh
+  401  ./hw_15.sh
+  402  ls -la
+  403  nano hw_15.sh
+  404  ./hw_15.sh
+  405  nano hw_15.sh
+  406  ls -la
+  407  cat make_files.sh 
+  408  nano hw_15.sh
+  409  ./hw_15.sh
+  410  nano hw_15.sh
+  411  ./hw_15.sh
+  412  cat hw_15.sh
+  413  ./hw_15.sh
+  414  cat hw_15.sh
+  415  nano hw_15.sh
+  416  ./hw_15.sh
+  417  exit
+  418  find --help
+  419  find /usr/include/ -type f -size +200k
+  420  find /usr/include/ -type f
+  421  find /usr/include/ -type f -size +100k
+  422  find /usr/include/ -type f -size +10k
+  423  exit
+  424  cat /etc/os-release | grep NAME | grep -v PRETTY | awk '$1=""Buildroot""{print}'
+  425  cat /etc/os-release | grep NAME 
+  426  cat /etc/os-release | grep NAME | grep -v PRETTY 
+  427  cat /etc/os-release | grep NAME 
+  428  cat /etc/os-release | grep PRETTY_NAME
+  429  cat /etc/os-release | grep PRETTY_NAME |awk '$1=""Buildroot""{print}'
+  430  cat /etc/os-release | grep PRETTY_NAME |awk '{$1=""Buildroot""print}'
+  431  cat /etc/os-release | grep PRETTY_NAME |awk '{"Buildroot""print $1}'
+  432  cat /etc/os-release | grep PRETTY_NAME |awk '{"Buildroot ="print $1}'
+  433  cat /etc/os-release | grep PRETTY_NAME |awk '{"Buildroot =" print $1}'
+  434  cat /etc/os-release | grep PRETTY_NAME |awk '{print $1}'
+  435  cat /etc/os-release | grep PRETTY_NAME |awk -F'"' '{print $1}'
+  436  cat /etc/os-release | grep PRETTY_NAME |awk -F'"' '{print $2}'
+  437  exit
+  438  echo $PATH
+  439  cd /opt/310524-ptm/rubila341
+  440  nano скрипт.py
+  441  chmod +x скрипт.py
+  442  скрипт.py
+  443  export PATH=$PATH:/opt/310524-ptm/rubila341
+  444  source ~/.bashrc
+  445  скрипт.py
+  446  mail
+  447  mailx
+  448  less /var/spool/mail/ec2-user
+  449  env
+  450  cd /opt/310524-ptm/VAndreev/
+  451  ls -al
+  452  cat make_files.sh 
+  453  ls -al
+  454  nano test.sh
+  455  chmod +x test.sh 
+  456  ls -al
+  457  chmod -x test.sh 
+  458  /bin/bash test.sh 
+  459  excho $NAME
+  460  echo $NAME
+  461  echo $USER
+  462  ls -al ~
+  463  cat ~/.bash_profile 
+  464  ls -al
+  465  ls -a
+  466  mkdir File5.txt
+  467  ls -a
+  468  nano Test_Dir.sh
+  469  chmod +x Test_Dir.sh 
+  470  ./Test_Dir.sh /opt/310524-ptm/
+  471  ./Test_Dir.sh /opt/310524-ptm/VAndreev/
+  472  test /opt/310524-ptm/VAndreev/File5.txt/
+  473  test -f /opt/310524-ptm/VAndreev/File5.txt/
+  474  echo $?
+  475  test -d /opt/310524-ptm/VAndreev/File5.txt/
+  476  echo $?
+  477  man test
+  478  nano Test_Dir.sh
+  479  ./Test_Dir.sh /opt/310524-ptm/VAndreev/
+  480  nano Test_Dir.sh
+  481  ./Test_Dir.sh /opt/310524-ptm/VAndreev/
+  482  nano Random_file.sh
+  483  chmod +x Random_file.sh 
+  484  ./Random_file.sh 
+  485  ls -al
+  486  ls -al generated_files/
+  487  nano Random_file.sh
+  488  ./Random_file.sh 
+  489  nano Random_file.sh
+  490  ./Random_file.sh 5
+  491  ls -l generated_files/
+  492  cat generated_files/file_1-25718.txt 
+  493  cat generated_files/file_2-4303.txt 
+  494  ls -al /dev/urandom 
+  495  cat /dev/urandom 
+  496  ls -al
+  497  exir
+  498  exit
+  499  crontab -l
+  500  scp ec2-user@linux.itcareerhub.de:/opt/310524-ptm/OksanaRazumna/task_Oksana.sh C:/Users/oksus/Downloads/
+  501  ssh ec2-user@linux.itcareerhub.de
+  502  scp ec2-user@linux.itcareerhub.de:/opt/310524-ptm/OksanaRazumna/task_Oksana.sh C:/Users/oksus/Downloads/
+  503  cd /opt/310524-ptm/OksanaRazumna
+  504  curl --upload-file ./task_Oksana.sh https://transfer.sh/task_Oksana.sh
+  505   https://transfer.sh/task_Oksana.sh
+  506  sudo yum install mutt
+  507  echo "Here is the task_Oksana.sh file" | mutt -a "/opt/310524-ptm/OksanaRazumna/task_Oksana.sh" -s "task_Oksana.sh" -- your-email@example.com
+  508  echo "Here is the task_Oksana.sh file" | mutt -a "/opt/310524-ptm/OksanaRazumna/task_Oksana.sh" -s "task_Oksana.sh" – razumna1971@gmail.com
+  509  echo "Here is the task_Oksana.sh file" | mutt -a "/opt/310524-ptm/OksanaRazumna/task_Oksana.sh" -s "task_Oksana.sh" -- razumna1971@gmail.com
+  510  curl -F "file=@task_Oksana.sh" https://file.io
+  511  cd /opt/310524-ptm/OksanaRazumna
+  512  echo "Here is the task_Oksana.sh file" | mutt -a "/opt/310524-ptm/OksanaRazumna/task_Oksana.sh" -s "task_Oksana.sh" -- oksuspeh@gmail.com
+  513  cd /opt/310524-ptm/OksanaRazumna
+  514  ls -l
+  515  scp ec2-user@linux.itcareerhub.de:/opt/310524-ptm/OksanaRazumna/task_Oksana.sh C:/Users/oksus/Downloads/
+  516  ls -al  /root  2>/dev/null
+  517  cd /opt/310524-ptm/OksanaRazumna
+  518  ls -l
+  519  scp ec2-user@linux.itcareerhub.de:/opt/310524-ptm/OksanaRazumna/task_Oksana.sh C:/Users/oksus/Downloads/
+  520  mv /opt/310524-ptm/OksanaRazumna/task_Oksana.sh ~/
+  521  scp ec2-user@linux.itcareerhub.de:~/task_Oksana.sh C:/Users/oksus/Downloads/
+  522  sftp ec2-user@linux.itcareerhub.de
+  523  cd /opt/310524-ptm/OksanaRazumna
+  524  get task_Oksana.sh C:/Users/oksus/Downloads/
+  525  whoami
+  526  ls ~/.ssh
+  527  cd /opt
+  528  nano sleeper.sh
+  529  chmod +x sleeper.sh
+  530  ./sleeper.sh
+  531  ls /opt | grep '.txt'cat /opt/cpuinfo.txt
+  532  cat /opt/osinfo.txt
+  533  cat /opt/osname.txt
+  534  scp ec2-user@linux.itcareerhub.de:/opt/sleeper.sh "C:\Users\oksus\Documents\курс пайтон\линукс\14\"
+  535  scp ec2-user@linux.itcareerhub.de:/opt/sleeper.sh "C:\Users\oksus\Documents\курс пайтон\линукс\20\"
+  536  scp ec2-user@linux.itcareerhub.de:/opt/sleeper.sh "C:\Users\oksus\Documents\курс пайтон\линукс\20\"
+  537  ls /opt/sleeper.sh
+  538  cat /opt/sleeper.sh
+  539  scp ec2-user@linux.itcareerhub.de:/opt/sleeper.sh "C:/Users/oksus/Documents/курс пайтон/линукс/20/"
+  540  cd /opt
+  541  cd /opt/310524-ptm/OKSANA
+  542  nano /opt/310524-ptm/OKSANA/sleeper.sh
+  543  chmod +x /opt/310524-ptm/OKSANA/sleeper.sh
+  544  scp ec2-user@linux.itcareerhub.de:/opt/310524-ptm/OKSANA/sleeper.sh "C:\Users\oksus\Documents\курс пайтон\линукс\20\"
+  545  cd /opt/310524-ptm/OKSANA
+  546  ls -l sleeper.sh
+  547  chmod +x /opt/310524-ptm/OKSANA/sleeper.sh
+  548  scp ec2-user@linux.itcareerhub.de:/opt/310524-ptm/OKSANA/sleeper.sh "C:\Users\oksus\Documents\курс пайтон\линукс\20\"
+  549  curl --upload-file /opt/310524-ptm/OKSANA/sleeper.sh https://transfer.sh/sleeper.sh
+  550  curl --upload-file /opt/310524-ptm/OKSANA/sleeper.sh https://transfer.sh/sleeper.shcurl --upload-file /opt/310524-ptm/OKSANA/sleeper.sh https://transfer.sh/sleeper.shcurl --upload-file /opt/310524-ptm/OKSANA/sleeper.sh https://transfer.sh/sleeper.sh
+  551  cd /opt/310524-ptm/OKSANA
+  552  nano sleeper.sh
+  553  chmod +x sleeper.sh
+  554  scp ec2-user@linux.itcareerhub.de:/opt/310524-ptm/OKSANA/sleeper.sh "C:/Users/oksus/Documents/курс пайтон/линукс/20/"
+  555  ls -l /opt/310524-ptm/OKSANA/sleeper.sh
+  556  scp ec2-user@linux.itcareerhub.de:/opt/310524-ptm/OKSANA/sleeper.sh ./sleeper.sh
+  557  echo "Here is the sleeper.sh file" | mutt -a "/opt/310524-ptm/OKSANA/sleeper.sh" -s "sleeper.sh" -- your-email@example.com
+  558  echo "Here is the sleeper.sh file" | mutt -a "/opt/310524-ptm/OKSANA/sleeper.sh" -s "sleeper.sh" -- razumna1971@gmail.com
+  559  C:\Users\oksus\Documents\курс пайтон\линукс\18 summary\LinuxGit_Sum6.pdf
+  560  cd /opt/310524-ptm/OksanaRazumna
+  561  cat task_Oksana.sh > output17.txt
+  562  ls -l
+  563  find /opt/310524-ptm -name "task_Oksana.sh"
+  564  -rw-rw-r-- 1 ec2-user ec2-user     0 Jul 27 07:53 output17.txt
+  565  [ec2-user@ip-10-0-42-153 OksanaRazumna]$ find /opt/310524-ptm -name "task_Oksana.sh"
+  566  [ec2-user@ip-10-0-42-153 OksanaRazumna]$
+  567  nano /opt/310524-ptm/OksanaRazumna/task_Oksana.sh
+  568  chmod +x /opt/310524-ptm/OksanaRazumna/task_Oksana.sh
+  569  cat /opt/310524-ptm/OksanaRazumna/task_Oksana.sh > /opt/310524-ptm/OksanaRazumna/output17.txt
+  570  cat /opt/310524-ptm/OksanaRazumna/output17.txtcat /opt/310524-ptm/OksanaRazumna/output17.txtcat /opt/310524-ptm/OksanaRazumna/output17.txt
+  571  scp ec2-user@linux.itcareerhub.de:/opt/310524-ptm/OksanaRazumna/output17.txt "C:/Users/oksus/Documents/курс пайтон/линукс/17/"
+  572  curl --upload-file /opt/310524-ptm/OksanaRazumna/output17.txt https://transfer.sh/output17.txt
+  573  sudo yum install mutt
+  574  echo "Here is the output17.txt file" | mutt -a "/opt/310524-ptm/OksanaRazumna/output17.txt" -s "output17.txt" -- razumna1971@gmail.com
+  575  export_file output.17
+  576  export_file output17.txt
+  577  cd /opt/310524-ptm/OksanaRazumna
+  578  python3 -m http.server 8000
+  579  cd /opt/310524-ptm/OKSANA
+  580  nano task_OKSANA.sh
+  581  chmod +x task_OKSANA.sh
+  582  crontab -e
+  583  cd /opt/310524-ptm/OKSANA
+  584  crontab -e
+  585  cd /opt/310524-ptm/OksanaRazumna
+  586  export EDITOR=nano
+  587  crontab -e
+  588  crontab -l
+  589  #*/15 * * * * /opt/310524-ptm/OksanaRazumna/task_Oksana.sh
+  590  scp ec2-user@linux.itcareerhub.de:/opt/310524-ptm/OKSANA/outputdz17.txt "C:/Users/oksus/Documents/курс пайтон/линукс/17/"
+  591  cd /opt/310524-ptm/OKSANA
+  592  export EDITOR=nano
+  593  crontab -e
+  594  export EDITOR=nano
+  595  crontab -e
+  596  crontab -l
+  597  cat /opt/310524-ptm/OKSANA/task_OKSANA.sh > /opt/310524-ptm/OKSANA/outputdz17.txt
+  598  scp ec2-user@linux.itcareerhub.de:/opt/310524-ptm/OKSANA/outputdz17.txt "C:/Users/oksus/Documents/курс пайтон/линукс/17/"
+  599  export EDITOR=nano
+  600  crontab -e
+  601  ls -l C:/Users/oksus/.ssh/id_rsa
+  602  scp -i C:/Users/oksus/.ssh/id_rsa ec2-user@linux.itcareerhub.de:/opt/310524-ptm/OKSANA/outputdz17.txt "C:/Users/oksus/Documents/курс пайтон/линукс/17/"
+  603  ssh -i C:/Users/oksus/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  604  ls -l /opt/310524-ptm/OKSANA/outputdz17.txt
+  605  chmod 644 /opt/310524-ptm/OKSANA/outputdz17.txt
+  606  cat /opt/310524-ptm/OKSANA/outputdz17.txt
+  607  scp ec2-user@linux.itcareerhub.de:/opt/310524-ptm/OKSANA/outputdz17.txt "C:/Users/oksus/Documents/курс пайтон/линукс/17/"
+  608  cd /opt/310524-ptm/OKSANA
+  609  echo -e '#!/bin/bash\n date\n echo "it works!"' > /opt/310524-ptm/OKSANA/simple_script.sh
+  610  nano sleeper.sh
+  611  chmod +x sleeper.sh
+  612  export EDITOR=nano
+  613  crontab -e
+  614  tar -cvzf /opt/310524-ptm/OKSANA/outputdz17.tar.gz /opt/310524-ptm/OKSANA/*.txt /opt/310524-ptm/OKSANA/cpuinfo.txt /opt/310524-ptm/OKSANA/osinfo.txt /opt/310524-ptm/OKSANA/osname.txt /opt/310524-ptm/OKSANA/history.txt
+  615  ls -l /opt/310524-ptm/OKSANA/
+  616  cat /proc/cpuinfo > /opt/310524-ptm/OKSANA/cpuinfo.txt
+  617  cat /etc/os-release | grep NAME > /opt/310524-ptm/OKSANA/osinfo.txt
+  618  cat /etc/os-release | grep ^NAME= | cut -d '=' -f 2 > /opt/310524-ptm/OKSANA/osname.txt
+  619  history > /opt/310524-ptm/OKSANA/history.txt
+  620  tar -cvzf /opt/310524-ptm/OKSANA/outputdz17.tar.gz /opt/310524-ptm/OKSANA/*.txt /opt/310524-ptm/OKSANA/task_OKSANA.sh /opt/310524-ptm/OKSANA/sleeper.sh
+  621  tar -tvf /opt/310524-ptm/OKSANA/outputdz17.tar.gz
+  622  scp ec2-user@linux.itcareerhub.de:/opt/310524-ptm/OKSANA/outputdz17.tar.gz "C:\Users\oksus\Documents\курс пайтон\линукс\17\"
+  623  scp ec2-user@linux.itcareerhub.de:/opt/310524-ptm/OKSANA/outputdz17.tar.gz "C:\Users\oksus\Documents\курс пайтон\линукс\20\"
+  624  scp ec2-user@linux.itcareerhub.de:/opt/310524-ptm/OKSANA/outputdz17.tar.gz "C:/Users/oksus/Documents/курс пайтон/линукс/17/"
+  625  echo "Here is the outputdz17.tar.gz file" | mutt -a "/opt/310524-ptm/OKSANA/outputdz17.tar.gz" -s "outputdz17.tar.gz" -- razumna1971@gmail.com
+  626  scp ec2-user@linux.itcareerhub.de:/opt/310524-ptm/OKSANA/outputdz17.tar.gz "C:/Users/oksus/Documents/курс пайтон/линукс/17/"scp ec2-user@linux.itcareerhub.de:/opt/310524-ptm/OKSANA/outputdz17.tar.gz "C:/Users/oksus/Documents/курс пайтон/линукс/17/"
+  627  exit
+  628  ls
+  629  ls -a
+  630  ls
+  631  ls -a
+  632  cd config
+  633  cd /config
+  634  cd. /config
+  635  cd /.config
+  636  cd .config
+  637  ls
+  638  ls -a
+  639  cd ..
+  640  ls -a
+  641  cd .ssh
+  642  ls
+  643  cd au
+  644  cd authorized_keys
+  645  ls -a
+  646  cd .authorized_keys
+  647  cd /authorized_keys
+  648  cd ./authorized_keys
+  649  cd .authorized_keys
+  650  pwd
+  651  ls ßa
+  652  ls -a
+  653  cd /authorized_keys
+  654  cd..
+  655  cd ..
+  656  ls -a
+  657  cd .local
+  658  ls
+  659  ls -a
+  660  cd ..
+  661  cd bin
+  662  ls
+  663  ls -a
+  664  cd ..
+  665  cd .bash_profile
+  666  ls -a
+  667  cd Margarita
+  668  ls
+  669  exit
+  670  ls
+  671  ls -a
+  672  cd opt
+  673  cd .opt
+  674  cd /opt
+  675  ls
+  676  cd 100624-wdm
+  677  ls
+  678  cd..
+  679  cd ..
+  680  cd ~
+  681  ls
+  682  ls -a
+  683  clear
+  684  export VOLODYMYR_VARIABLE=220624-wdm
+  685  cd opt
+  686  cd /opt
+  687  ls
+  688  unset VOLODYMYR_VARIABLE
+  689  export VOLODYMYR_VARIABLE=100624-wdm
+  690  cd 100624-wdm
+  691  ls
+  692  cd Volodymyr
+  693  ls
+  694  date >>.process_management
+  695  echo "Welcome to Amazon server" >> .process_management 
+  696  free -m | grep Mem | awk {'print $2'}
+  697  free -m | grep Mem | awk {'print $2'} >> .process_management 
+  698  ps -ef | grep root | grep -v grep --color=auto | wc -l  
+  699  ps -ef | grep root | grep -v grep --color=auto | wc -l >> .process_management 
+  700  env | grep VOLODYMYR
+  701  env | grep VOLODYMYR >> .process_management
+  702  ps -ef | grep "/usr/sbin/sshd -D" | grep -v grep | awk '{prinr "PID", $2, "PPID", $3}' >> .process_management 
+  703  ps -eo pid,ppid,command | grep '[u]sr/sbin/sshd -D' | awk '{print "PID:", $1, "PPID:", $2}' >> .process_management
+  704  ps -ef | grep "/usr/sbin/sshd -D" | grep -v grep | awk '{prinr "PID:", $2, "PPID:", $3}' >> .process_management 
+  705  cat .process_management 
+  706  clear
+  707  scp ec2-user@linux.itcareerhub.de:/opt/100624-wdm/Volodymyr C:
+  708  scp ec2-user@linux.itcareerhub.de:/opt/100624-wdm/Volodymyr/.process_management C:
+  709  cd..
+  710  cd
+  711  cd ~
+  712  scp ec2-user@linux.itcareerhub.de:/opt/100624-wdm/Volodymyr/.process_management C:
+  713  cd /opt
+  714  ls
+  715  cd 100624-wdm
+  716  ls 
+  717  cd Volodymyr
+  718  ls
+  719  ls -a
+  720  cat .process_management 
+  721  scp ec2-user@linux.itcareerhub.de:/.process_management C:C:/
+  722  scp ec2-user@linux.itcareerhub.de:/opt/100624-wdm/Volodymyr/.process_management "C:\"
+  723  temp
+  724  fr15
+  725  e
+  726  scp ec2-user@linux.itcareerhub.de:/.process_management D:
+  727  cat .process_management 
+  728  cd /opt/100624-wdm/
+  729  ls
+  730  cd /100624-wdm
+  731  cd 100624-wdm
+  732  ls -la
+  733  cd /opt/100624-wdm/
+  734  cd /var/spool/mail/ec2-user
+  735  ls- la
+  736  ls -la
+  737  chmod
+  738  chmod u-w Halyna
+  739  ls -la
+  740  chmod u+w Halyna
+  741  ls -la
+  742  chmod u+w Halyna
+  743  ls -la
+  744  rwx
+  745  cd ghays
+  746  ls
+  747  ls -la
+  748  cd /opt/100624-wdm/ghays/
+  749  ls
+  750  cat /etc/passwd
+  751  cat /etc/group
+  752  cd 100624
+  753  cd /opt/100624
+  754  ls
+  755  cd /opt
+  756  ls
+  757  cd 100624-wdm
+  758  cd Halyna
+  759  cd /opt/100624-wdm
+  760  ls
+  761  ls -la
+  762  chmod u-w Viktar
+  763  ls -la
+  764  chmod u+w Viktar
+  765  ls -la
+  766  cat /etc/passwd
+  767  cat /etc/group
+  768  ls -la
+  769  cd /
+  770  ls
+  771  cd /opt/100624-wdm
+  772  cd Vikt
+  773  cd Viktar/
+  774  ls
+  775  ls -la
+  776  cat script.sh 
+  777  cd /
+  778  ll
+  779  cd /opt/100624-wdm
+  780  ls
+  781  ll
+  782  cat /etc/group
+  783  ls -la
+  784  exit
+  785  cd /opt/100624-wdm/Viktar/
+  786  ls
+  787  rm script.sh 
+  788  touch script.sh
+  789  ls
+  790  chmod +x script.sh 
+  791  ls -la
+  792  ./script.sh 
+  793  pwd
+  794  /opt/100624-wdm/Viktar/script.sh 
+  795  vim script.sh 
+  796  cat script.sh 
+  797  ./script.sh 
+  798  cat script.sh 
+  799  ls -la
+  800  cat script.sh 
+  801  ./script.sh 
+  802  less script.sh 
+  803  cat script.sh 
+  804  ./script.sh 
+  805  vim script.sh 
+  806  ./script.sh 
+  807  vim script.sh 
+  808  ./script.sh 
+  809  cat script.sh 
+  810  ./script.sh 
+  811  vim script.sh 
+  812  exit
+  813  cd /opt
+  814  ls
+  815  cd 100624-wdm
+  816  ls -la
+  817  ls
+  818  cd
+  819  ls
+  820  cd 
+  821  cd ..
+  822  ls
+  823  cd ...
+  824  cd ..
+  825  ls
+  826  cd opt
+  827  ls
+  828  cd 100624-wdm
+  829  cd Volodymyr
+  830  touch script.sh
+  831  chmod +x script.sh
+  832  ls -la
+  833  ./script.sh 
+  834  vim script.sh 
+  835  vim script.sh
+  836  vim script.sh 
+  837  ./script.sh 
+  838  ls
+  839  ls -la
+  840  rm .script.sh.swp 
+  841  ls
+  842  ./script.sh 
+  843  ls
+  844  ls -la
+  845  cat script.sh 
+  846  date >> script.sh 
+  847  cat script.sh 
+  848  ./script.sh 
+  849  vim script.sh 
+  850  ./script.sh 
+  851  vim script.sh 
+  852  ./script.sh 
+  853  ls -ls
+  854  ls
+  855  ls -la
+  856  exit
+  857  cd /opt/100624-wdm
+  858  ls
+  859  cd Vikt
+  860  cd ViktoriiaLuchkovska/
+  861  cd ../Viktar/
+  862  ls
+  863  pwd
+  864  mc
+  865  ls -la
+  866  chmod ugo-r-w-x Panchenko
+  867  ls -la
+  868  chmod ugo+rwx Panchenko
+  869  ls -la
+  870  chmod ugo-rwx Panchenko
+  871  ls -la
+  872  chmod 777 Panchenko
+  873  ls -la
+  874  chmod 111 Panchenko
+  875  ls -la
+  876  chmod 000 Panchenko
+  877  ls -la
+  878  chmod 7 Panchenko
+  879  ls -la
+  880  chmod 7777 Panchenko
+  881  ls -la
+  882  chmod 777 Panchenko
+  883  ls -la
+  884  chmod 000 Panchenko
+  885  ls -la
+  886  chmod 111 Panchenko
+  887  ls -la
+  888  chmod ugo+rwx Panchenko
+  889  ls -la
+  890  chmode Panchenko
+  891  chmod Panchenko
+  892  chmod ugo-s Panchenko
+  893  ls -la
+  894  cd Panchenko
+  895  ls
+  896  >>script.sh
+  897  ls
+  898  mc
+  899  ls - la
+  900  ls -la
+  901  chmod ugo +x script.sh
+  902  chmod -ugo +x script.sh
+  903  history
+  904  chmod ugo+x script.sh
+  905  ls -la
+  906  script.sh
+  907  ls -la
+  908  nano script.sh 
+  909  script.sh
+  910  cat script.sh 
+  911  script.sh
+  912  ./script.sh
+  913  mc
+  914  cd ~/.ssh/
+  915  ls
+  916  pwd
+  917  mc
+  918  history | grep ssh
+  919  exit
+  920  cd /opt/100624-wdm/
+  921  ls -la
+  922  /opt/310524-ptm/Margarita-Wenzel
+  923  ls -al
+  924  ды
+  925  ls
+  926  la
+  927  # Создаем файл и записываем в него текущую дату
+  928  date > myfile.txt
+  929  df / >> myfile.txt
+  930  history | tail -n 3 >> myfile.txt
+  931  grep cron /etc/passwd >> myfile.txt
+  932  grep -c root /etc/group >> myfile.txt
+  933  nano myfile.txt
+  934  # Открываем файл в vi
+  935  vi myfile.txt
+  936  export ANDREW_VARIABLE="Developers"
+  937  echo "export ANDREW_VARIABLE='Developers'" >> ~/.bashrc
+  938  sudo mkdir -p /opt/Developers/Andrew
+  939  sudo touch /opt/Developers/Andrew/.process_management
+  940  date | sudo tee /opt/Developers/Andrew/.process_management
+  941  echo "Welcome to Amazon server" | sudo tee -a /opt/Developers/Andrew/.process_management
+  942  free -h | grep "Mem:" | awk '{print "Total memory:", $2}' | sudo tee -a /opt/Developers/Andrew/.process_management
+  943  ps -U root --no-heading | wc -l | awk '{print "Processes under user root:", $1}' | sudo tee -a /opt/Developers/Andrew/.process_management
+  944  printenv | grep ANDREW_VARIABLE | sudo tee -a /opt/Developers/Andrew/.process_management
+  945  ps -eo pid,ppid,cmd | grep "/usr/sbin/sshd -D" | grep -v grep | awk '{print "PID", $1, "PPID", $2}' | sudo tee -a /opt/Developers/Andrew/.process_management
+  946  cat /opt/Developers/Andrew/.process_management
+  947  vi /tmp/file.txt
+  948  # Откройте редактор nano для создания файла file.txt
+  949  nano /tmp/file.txt
+  950  # Изменяем права доступа к файлу
+  951  chmod 760 /tmp/file.txt
+  952  # Создаем файл скрипта
+  953  nano ~/myfirstbashscript.sh
+  954  # Создаем файл скрипта
+  955  nano ~/myfirstbashscript.sh
+  956  # Даем права на выполнение скрипта
+  957  chmod +x ~/myfirstbashscript.sh
+  958  # Дописываем содержимое скрипта в файл file.txt
+  959  cat ~/myfirstbashscript.sh | sudo tee -a /tmp/file.txt
+  960  # Добавляем историю команд
+  961  history | sudo tee -a /tmp/file.txt
+  962  # Экспортируем файл
+  963  export_file /tmp/file.txt
+  964  ls
+  965  ls -a
+  966  cd ~
+  967  ls
+  968  cd opt
+  969  cd/ opt
+  970  ls
+  971  cd /
+  972  ls
+  973  cd opt
+  974  ls
+  975  cd 100624-wdm
+  976  ls
+  977  cd Volodymyr
+  978  ls
+  979  ls -la
+  980  ls -a
+  981  scp ec2-user@linux.itcareerhub.de:.process_management '/mnt/c'
+  982  scp ec2-user@linux.itcareerhub.de:.process_management /mnt/c/
+  983  exit
+  984  /opt/
+  985  cd /opt/
+  986  cd /opt/150424-wdm/Alexandr_Yevtushenko/
+  987  ls -l
+  988  exit
+  989  cd /opt/100624-wdm/
+  990  ls
+  991  df -h
+  992  ls
+  993  pwd
+  994  `
+  995  ~
+  996  /
+  997  cd /
+  998  ls
+  999  pwd
+ 1000  pwd /
+ 1001  cd tmp
+ 1002  ls
+ 1003  ls -a
+ 1004  ls -la
+ 1005  vi file.txt
+ 1006  rm file.txt
+ 1007  ls -la
+ 1008  vi file.txt
+ 1009  cat file.txt
+ 1010  ls -la
+ 1011  chmod 040
+ 1012  chmod 040 file.txt
+ 1013  ls -la
+ 1014  chmod 030 file.txt
+ 1015  ls -la
+ 1016  cd ..
+ 1017  ls
+ 1018  cd opt
+ 1019  ls
+ 1020  cd 100624-wdm-Volodymyr
+ 1021  cd 100624-wdm/Volodymyr
+ 1022  ls
+ 1023  vi myfirstbashscript.sh
+ 1024  ls -la
+ 1025  chmod +x myfirstbashscript.sh 
+ 1026  USER="Volodymyr"
+ 1027  echo $USER
+ 1028  cat myfirstbashscript.sh 
+ 1029  vi myfirstbashscript.sh 
+ 1030  myfirstbashscript
+ 1031  myfirstbashscript.sh
+ 1032  ./myfirstbashscript.sh
+ 1033  /myfirstbashscript.sh
+ 1034  .myfirstbashscript.sh
+ 1035  ls -la
+ 1036  vi myfirstbashscript.sh 
+ 1037  cat myfirstbashscript.sh 
+ 1038  cat myfirstbashscript.sh >> /tmp/file.txt
+ 1039  ls -l /tmp/file.txt
+ 1040  chmod 730 /tmp/file.txt
+ 1041  ls -l /tmp/file.txt
+ 1042  cat myfirstbashscript.sh >> /tmp/file.txt
+ 1043  cat /tmp/file.txt
+ 1044  history >> /tmp/file.txt

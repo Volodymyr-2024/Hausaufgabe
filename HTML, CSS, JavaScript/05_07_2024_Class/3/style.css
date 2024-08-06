@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    margin: 150px 200px;
+    background-color: gray;
+}
+.container {
+    background-color: white;
+    padding: 10px;    
+}
+button {
+    margin-left: 0.5em;
+    padding: 0.4em 0.75em;
+    border-radius: 0.5em;
+    background-color: rgb(209, 205, 205);
+    border: 1px solid rgb(209, 205, 205);
+    font-size: 1em;
+    text-align: center;
+}
+.btn_sm {
+    font-size: 0.75em;
+}
+.btn {
+    font-size: 1.25em;
+}
+.btn_xl {
+    font-size: 1.75em;
+}

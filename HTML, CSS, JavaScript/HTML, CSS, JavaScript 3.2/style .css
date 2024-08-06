@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+li {
+    padding: 10px;
+    margin: 5px;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+.one {
+    background-color: rgb(18, 184, 23);
+    text-align: center;
+}
+.two {
+    background-color: rgb(30, 0, 255);
+    text-align: center;
+}
+.three {
+    background-color: rgb(255, 0, 47);
+    text-align: center;
+}
+.four{
+    background-color: rgb(208, 255, 0);
+    text-align: center;
+}
+.five {
+    background-color: rgb(255, 0, 166);
+    text-align: center;
+}

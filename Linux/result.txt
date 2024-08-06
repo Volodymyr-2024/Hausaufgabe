@@ -1,0 +1,5 @@
+Tue Aug  6 08:29:27 CEST 2024
+Hello itspec!
+Current directory: /home/itspec/Repositories
+Number of bioset processes: 0
+-rw-r--r--

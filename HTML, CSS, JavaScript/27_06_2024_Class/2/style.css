@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.container {
+    border: 2px solid black;
+    width: 500px;
+    height: 300px;   
+    margin: 10% auto;
+    position: relative;
+}
+.item {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+.item:nth-child(1) {
+    background: #3a07a8;
+    top: 0;
+    right: 0;
+}
+.item:nth-child(2) {
+    background: yellow;
+    bottom: 0;
+    right: 0;
+}
+.item:nth-child(3) {
+    background: green;
+    bottom: 0;
+    right: 300;
+}
+.item:nth-child(4) {
+    background: red;
+    top: 0;
+    right: 300;
+}

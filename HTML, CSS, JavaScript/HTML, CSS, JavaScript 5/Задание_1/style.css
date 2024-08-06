@@ -1,0 +1,10 @@
+.block {
+   background-color: gray; 
+   padding: 20px;
+   border-radius: 8px;
+}
+a {
+    color: red;
+    text-decoration: none;
+    margin: 10px 0;
+    }

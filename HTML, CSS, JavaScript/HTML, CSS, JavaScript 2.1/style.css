@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #3b4a49;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: #799c9d;
+    padding: 20px 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #000;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.form-group input[type="text"],
+.form-group input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 2px;
+}
+
+.form-group.buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-group.buttons button {
+    width: 48%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.form-group.buttons button[type="submit"] {
+    background-color: white;
+    color: black;
+}
+
+.form-group.buttons button[type="reset"] {
+    background-color: #f44336;
+    color: black;
+}
+
+.form-group buttons button:hover {
+    opacity: 0.9;
+}
+
+.form-group.remember {
+    text-align: left;
+    margin-top: 10px;
+}
+
+.form-group.remember input {
+    margin-right: 5px;
+}

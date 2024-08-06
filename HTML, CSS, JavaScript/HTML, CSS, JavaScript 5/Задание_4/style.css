@@ -1,0 +1,21 @@
+.navi {
+    text-align: center;
+    margin-top: 30px;
+  }
+  .navi_item {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    background-color: #ddd;
+    color: #333;
+    text-align: center;
+    margin: 0 3px;
+  }
+  .navi_item.aktiv {
+    background-color: #d10953;
+    color: #fff;
+  }
+  .navi_item:hover {
+    background-color: #ccc;
+  }
