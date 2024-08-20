@@ -1,0 +1,35 @@
+.container {
+  width: 960px;
+  margin: 0 auto;
+  background-color: aqua;
+  text-align: center;
+  padding: 50px;
+}
+@media (max-width: 768px) {
+  .container {
+    width: 100%;
+  }
+}
+
+.container_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.btn {
+  background-color: #3498db;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  font-size: 26px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.btn:hover {
+  background-color: #217dbb;
+}
+
+/*# sourceMappingURL=style.css.map */
