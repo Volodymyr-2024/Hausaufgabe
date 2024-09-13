@@ -1,0 +1,1000 @@
+   10  ls -a
+   11  nano /tmp/file.txt
+   12  chmod g+wx /tmp/file.txt
+   13  chmod o-rwx/tmp/file.txt
+   14  chmod o-rwx /tmp/file.txt
+   15  nano ~/myfirstbashscript.sh
+   16  chmod +x ~/myfirstbashscript.sh
+   17  cat ~/myfirstbashscript.sh >> /tmp/file.txt
+   18  history >> /tmp/file.txt
+   19  export_file /tmp/file.txt
+   20  nano /tmp/file.txt
+   21  chmod g+wx /tmp/file.txt
+   22  chmod o-rwx /tmp/file.txt
+   23  nano ~/myfirstbashscript.sh
+   24  chmod +x ~/myfirstbashscript.sh
+   25  cat ~/myfirstbashscript.sh >> /tmp/file.txt
+   26  history >> /tmp/file.txt
+   27  export_file /tmp/file.txt
+   28  export_file/tmp/file.txt
+   29  export_file /tmp/file.txt
+   30  history >> /tmp/file.txt
+   31  ls
+   32  export_file /tmp/file.txt
+   33  cp /home/ghays/file.txt /mnt/c/Users/Downloads/
+   34  nano /tmp/file.txt
+   35  ls
+   36  exit
+   37  учше
+   38  exit
+   39  cd /opt/140624-wde/EvMaltseva
+   40  export EVGENIYA_VARIABLE=140624-wde
+   41  date >> .process_management
+   42  echo "Welcome to Amazon server" >> .process_management
+   43  free -h >> .process_management
+   44  ps -ef | grep root | grep -v grep >> .process_management
+   45  env | grep -w "EVGENIYA_VARIABLE"
+   46  env | grep -w "EVGENIYA_VARIABLE" >> .process_management
+   47  ps -ef | grep "/usr/sbin/sshd -D" | grep -v grep | awk '{print $2 " " $3}' >> .process_management
+   48  history >> .process_management && export_file .process_management
+   49  nano
+   50  cd /opt/
+   51  lc -al
+   52  ls -al
+   53  cd 140624-wde/
+   54  ls -al
+   55  ls
+   56  cd /opt
+   57  ls
+   58  cd 310524-ptm/
+   59  cd rubila341/
+   60  cd /opt/310524-ptm/rubila341/
+   61  docker load -i my-telegram-bot.tar
+   62  ls
+   63  docker load -i /opt/310524-ptm/rubila341/my-telegram-bot.tar
+   64  history 
+   65  exit
+   66  cd /opt/310524-ptm/
+   67  cd /opt/310524-ptm/Oleksiy/
+   68  ls -la
+   69  ls -lah
+   70  nano task_Oleksiy
+   71  ls -lah
+   72  chmod +x task_Oleksiy 
+   73  mv task_Oleksiy task_Oleksiy.sh 
+   74  ls -lah
+   75  crontab -e
+   76  ls -lah
+   77  crontab -e
+   78  pwd
+   79  cd ..
+   80  ls -lah
+   81  cd /opt/310524-ptm/Oleksiy/
+   82  ls -lah
+   83  cat task_Oleksiy.sh 
+   84  ./task_Oleksiy.sh 
+   85  ls -lah
+   86  ls -la
+   87  crontab -e
+   88  ls -la
+   89  ./task_Oleksiy.sh 
+   90  ls -la
+   91  cat task_Oleksiy.sh 
+   92  ./task_Oleksiy.sh 
+   93  nano task_Oleksiy
+   94  nano task_Oleksiy.sh 
+   95  cat task_Oleksiy.sh 
+   96  ls -la
+   97  pwd
+   98  nano task_Oleksiy.sh 
+   99  ls -la
+  100  ./task_Oleksiy.sh 
+  101  ls -la hw13
+  102  tar -czvf hw13.tar.gz hw13
+  103  ls -la hw13
+  104  ls -la 
+  105  history >> export
+  106   ls -la 
+  107  cd /var/spool/mail/ec2-user
+  108  ls -la
+  109  history > history.txt && export
+  110  history > history.txt
+  111  ls -la
+  112  rm export
+  113  rm export_file 
+  114  ls -la
+  115  cat /history.txt
+  116  pwd
+  117  ls -la
+  118  cat history.txt 
+  119  ls -la
+  120  scp c2-user@linux.itcareerhub.de:/opt/310524-ptm/Oleksiy/*.* C:/Users/User/AlexIT/ITCH/Hausaufgaben/Linux_Github_HW
+  121  exit
+  122  scp c2-user@linux.itcareerhub.de:/opt/310524-ptm/Oleksiy/*.* C:/Users/User/AlexIT/ITCH/Hausaufgaben/Linux_Github_HW
+  123  ls -la
+  124  pwd
+  125  ls -la
+  126  crontab -e
+  127  exit
+  128  history 
+  129  cd /opt/310524-ptm/Oleksiy/
+  130  ls -al
+  131  cat hw13.tar.gz 
+  132  cat hw13
+  133  cd hw13
+  134  ls -al
+  135  cd ..
+  136  ls -al
+  137  history >> export_file /tmp/file.txt
+  138  ls
+  139  cat myfirstbashscript.sh 
+  140  cat task_Oksana.sh 
+  141  cd /tmp/
+  142  ls
+  143  cat file.txt 
+  144  cd ~
+  145  cat myfirstbashscript.sh 
+  146  cd /opt/100624-wdm/
+  147  cd rami/
+  148  ls
+  149  ll
+  150  cd ..
+  151  pwd
+  152  cd ../../
+  153  find . -name "sleeper.sh"
+  154  cd /opt/
+  155  cat sleeper.sh 
+  156  ll
+  157  ls
+  158  cat 57.txt 
+  159  cat sleeper.sh 
+  160  cd /opt/100624-wdm/ghays/
+  161  ls
+  162  cd homework/
+  163  ls
+  164  cd /opt/100624-wdm/Viktar/
+  165  ls
+  166  touch howToCopyFiles.txt
+  167  vim howToCopyFiles.txt 
+  168  cd /opt/140624-wde/EvMaltseva
+  169  ls -l
+  170  export EVGENIYA_VARIABLE=140624-wde
+  171  date >> .process_management
+  172  echo "Welcome to Amazon server" >> .process_management
+  173  free -h >> .process_management
+  174  ps -ef | grep root | grep -v grep >> .process_management
+  175  env | grep -w "EVGENIYA_VARIABLE" >> .process_management
+  176  ps -ef | grep "/usr/sbin/sshd -D" | grep -v grep | awk '{print $2 " " $3}' >> .process_management
+  177  cd /opt/100624-wdm/Viktar/
+  178  ls
+  179  cat howToCopyFiles.txt 
+  180  exit
+  181  cd Halyna
+  182  cd/opt/100624-wdm
+  183  cd/opt/100624-wdm
+  184  cd /opt/100624-wdm
+  185  cd Viktoriia/
+  186  cd viktoriia/
+  187  cd VIKTORIIA/
+  188  touch script_viktoriia.sh
+  189  ls
+  190  vim script_viktoriia.sh
+  191  cd /opt/100624-wdm
+  192  cd ghays/
+  193  ls
+  194  touch script_ghays.sh
+  195  vim
+  196  ls
+  197  cd opt
+  198  cd /opt
+  199  ls
+  200  cd /100624-wdm
+  201  ls
+  202  cd 100624-wdm
+  203  ls
+  204  cd Volodymyr/
+  205  ls
+  206  vim script.sh
+  207  ls -s
+  208  ls -a
+  209  chmod +x script.sh
+  210  ls
+  211  ./script.sh 
+  212  vim script.sh 
+  213  ./script.sh 
+  214  ps
+  215  vim script.sh 
+  216  ./script.sh 
+  217  vim script.sh 
+  218  ./script.sh 
+  219  vim script.sh 
+  220  ./script.sh 
+  221  vim script.sh 
+  222  ./script.sh 
+  223  ls /var/log
+  224  vim script.sh 
+  225  ./script.sh 
+  226  cat /proc/cpuinfo 
+  227  vim script.sh 
+  228  ./script.sh 
+  229  cat /etc/passwd
+  230  awk -F ':' '{print$1,$6}'
+  231  ./script.sh 
+  232  vim script.sh 
+  233  ./script.sh 
+  234  vim script.sh 
+  235  ./script.sh 
+  236  vim script.sh 
+  237  ./script.sh 
+  238  exit
+  239  cd /opt/100624-wdm
+  240  ls
+  241  cd Yanitska/
+  242  touch script_anastasiia.sh
+  243  ls
+  244  vim script_anastasiia.sh 
+  245  chmod +x script_anastasiia.sh 
+  246  ls
+  247  ./script_anastasiia.sh 
+  248  vim script_anastasiia.sh 
+  249  ./script_anastasiia.sh 
+  250  vim script_anastasiia.sh 
+  251  ps
+  252  ps -aux
+  253  vim script_anastasiia.sh 
+  254  ./script_anastasiia.sh 
+  255  vim script_anastasiia.sh 
+  256  ./script_anastasiia.sh 
+  257  ls /var/log 
+  258  vim script_anastasiia.sh 
+  259  ./script_anastasiia.sh 
+  260  cat /proc/cpuinfo
+  261  vim script_anastasiia.sh 
+  262  cat /etc/passwd
+  263  cat /etc/passwd | awk -F ':' '{print $1, $6}'
+  264  echo 'cat /etc/passwd | awk -F \':\' \'{print $1, $6}\'' >> script_anastasiia.sh
+  265  '
+  266  vim script_anastasiia.sh 
+  267  ./script_anastasiia.sh 
+  268  cd /opt/100624-wdm/Yanitska
+  269  vi /tmp/file.txt
+  270  df -h | head -3 >> /tmp/file.txt
+  271  vi /tmp/file.txt
+  272  exit
+  273  cd opt/100624-wdm/Yanitska
+  274  cd /opt/100624-wdm/Yanitska
+  275  vi file.txt
+  276  df -h | head -3 >> file.txt
+  277  chmod g+wx file.txt
+  278  chmod o-rwx file.txt
+  279  touch myfirstbashscript.sh
+  280  chmod +x myfirstbashscript.sh 
+  281  vi myfirstbashscript.sh 
+  282  .myfirstbashscript.sh
+  283  ./myfirstbashscript.sh 
+  284  cat myfirstbashscript.sh >> file.txt
+  285  history >> file.txt
+  286  export_file file.txt
+  287  scp(file.txt file.txt)
+  288  scp(/opt/100624-wdm/Yanitska/file.txt file.txt)
+  289  scp(/opt/100624-wdm/Yanitska/file.txt)
+  290  scp ec2-user@linux.itcareerhub.de:"/opt/100624-wdm/Yanitska/file.txt" file.txt
+  291  cat file.txt
+  292  vi file.txt
+  293  history
+  294  vi file.txt
+  295  cd /opt/310524-ptm/
+  296  mkdir AlexKupra
+  297  ls -l
+  298  ls -al
+  299  exit
+  300  ls -la
+  301  cd /opt/310524-ptm/
+  302  ls -la
+  303  exit
+  304  ls
+  305  ls -la
+  306  ls
+  307  cd /opt
+  308  ls
+  309  cd 100624-wdm
+  310  ls
+  311  cd Volodymyr
+  312  ls
+  313  touch permission_checker.sh
+  314  chmod +x permission_checker.sh 
+  315  ls
+  316  chmod -x permission_checker.sh 
+  317  ls
+  318  chmod +x permission_checker.sh 
+  319  ls
+  320  vim permission_checker.sh 
+  321  ./permission_checker.sh 
+  322  cp ./permission_checker.sh /mnt/c
+  323  cp ./permission_checker.sh /mnt/c/
+  324  ls -ld /mnt/c
+  325  pwd
+  326  ls
+  327  cat permission_checker.sh 
+  328  vim permission_checker.sh 
+  329  ./permission_checker.sh 
+  330  pwd
+  331  exit
+  332  cd /mnt
+  333  ls
+  334  exit
+  335  cd /opt/100624-wdm/Olga/
+  336  touch permission_checker.sh
+  337  chmod +x permission_checker.sh 
+  338  nano permission_checker.sh 
+  339  ./permission_checker.sh 
+  340  cd opt/310524-ptm/AlexKupra
+  341  cd opt/310524-ptm
+  342  cd opt/310524-ptm/
+  343  exit
+  344  cd /opt/140624-wde/EvMaltseva
+  345  export EVGENIYA_VARIABLE=140624-wde
+  346  date >> .process_management
+  347   echo "Welcome to Amazon server" >> .process_management
+  348  free -h >> .process_management
+  349  ps -ef | grep root | grep -v grep >> .process_management
+  350  env | grep -w "EVGENIYA_VARIABLE" >> .process_management
+  351  ps -ef | grep "/usr/sbin/sshd -D" | grep -v grep | awk '{print $2 " " $3}' >> .process_management
+  352   history >> .process_management && scp ec2-user@linux.itcareerhub.de:/opt/140624-wde/EvMaltseva/.process_management /test
+  353   history >> .process_management && scp ec2-user@linux.itcareerhub.de:/opt/140624-wde/EvMaltseva/.process_management /test/
+  354   history >> .process_management && scp ec2-user@linux.itcareerhub.de:/opt/140624-wde/EvMaltseva/.process_management C://test/
+  355   history >> .process_management && scp ec2-user@linux.itcareerhub.de:/opt/140624-wde/EvMaltseva/.process_management /C:/test/
+  356  ls -l
+  357  exit
+  358  cd opt/310524-ptm/
+  359  sudo mkdir -p opt/310524-ptm/AlexKupra
+  360  cd opt/310524-ptm/
+  361  cd opt/310524-ptm/AlexKupra
+  362  ls -ld opt/310524-ptm/AlexKupra
+  363  ls -l opt/310524-ptm/AlexKupra
+  364  ls -la
+  365  ls -la opt
+  366  ls -ld /opt
+  367  ls -la /opt
+  368  ls -la /opt/310524-ptm
+  369  cd /opt/310524-ptm/AlexKupra
+  370  export AlexKupra_VARIABLE=310521-ptm
+  371  touch .process_management
+  372  date >> .process_management
+  373  echo "Welcome to Amazone server" >> .process_management
+  374  free -h | grep Mem | awk '{print "Total Memory: $2}' >> .process_management
+  375  free -h | awk '/^Mem:/ {print "Total Memory: " $2}' >> /opt/310524-ptm/AlexKupra/.process_management
+  376  ps -U root --no-headers | wc -l | awk '{print "Number of root processes: " $1}' >> /opt/310524-ptm/AlexKupra/.process_management
+  377  printenv | grep ^AlexKupra_VARIABLE= >> /opt/310524-ptm/AlexKupra/.process_management
+  378  ps -ef | grep '/usr/sbin/sshd -D' | grep -v grep | awk '{print "PID " $2 " *** PPID " $3 "*"}' >> /opt/310524-ptm/AlexKupra/.process_management
+  379  cat /opt/310524-ptm/AlexKupra/.process_management
+  380  unset AlexKupra_VARIABLE
+  381  cd /opt/310524-ptm/
+  382  ls -la /opt/310524-ptm/AlexKupra
+  383  ls -la /opt/310524-ptm/
+  384  exit
+  385  cd /opt/100624-wdm/Volodymyr/
+  386  clear
+  387  ls
+  388  cat permission_checker.sh 
+  389  cd /opt/100624-wdm/Volodymyr/
+  390  cat permission_checker.sh 
+  391  cd /opt/100624-wdm/Yanitska
+  392  ls
+  393  rm myfirstbashscript.sh 
+  394  rm file.txt 
+  395  cd /opt/100624-wdm/Yanitska
+  396  ls
+  397  vim file.txt
+  398  df -h | head -3 >>file.txt
+  399  vim file.txt
+  400  chmod g+wx file.txt 
+  401  chmod o-rwx file.txt 
+  402  touch myfirstbashscript.sh
+  403  chmod +x myfirstbashscript.sh 
+  404  vim myfirstbashscript.sh 
+  405  echo myfirstbashscript.sh 
+  406  cat myfirstbashscript.sh 
+  407  ./myfirstbashscript.sh 
+  408  cat myfirstbashscript.sh  >> file.txt
+  409  history >> file.txt
+  410  scp ec2-user@linux.itcareerhub.de:"/opt/100624-wdm/Yanitska/file.txt" "C:/Users/yanit/Desktop/ICH/file.txt"
+  411  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
+  447  cd /opt/100624-wdm/Yanitska
+  448  export file.txt
+  449  scp ec2-user@linux.itcareerhub.de: "/opt/100624-wdm/Yanitska/file.txt" "file.txt"
+  450  scp ec2-user@linux.itcareerhub.de: "/opt/100624-wdm/Yanitska/file.txt" "C:/Users/yanit/Desktop/ICH/file.txt
+  451  "
+  452  export EVGENIYA_VARIABLE=140624-wde
+  453  date >> .process_management
+  454  echo "Welcome to Amazon server" >> .process_management
+  455  free -h >> .process_management
+  456  ps -ef |grep root | grep -v grep >> .process_management
+  457  env | grep -w "EVGENIYA_VARIABLE" >> .process_management
+  458  cat .process_management
+  459  ps -ef | grep "/usr/sbin/sshd -D" | grep -v grep | awk '{print $2 " " $3}' >> .process_management
+  460  exit
+  461  cd/opt/140624-wde/EvMaltseva
+  462  cd /opt/140624-wde/EvMaltseva
+  463  export EVGENIYA_VARIABLE=140624-wde
+  464  date >> .process_management
+  465  echo "Welcome to Amazon server" >> .process_management
+  466  free -h >> .process_management
+  467  ps -ef |grep root | grep -v grep >> .process_management
+  468  env | grep -w "EVGENIYA_VARIABLE" >> .process_management 
+  469  ps -ef | grep "/usr/sbin/sshd -D" | grep -v grep | awk '{print $2 " " $3}' >> .process_management
+  470  exit
+  471  ps -ef |grep root | grep -v grep >> .process_management
+  472  free -h >> .process_management
+  473  ls -lah
+  474  .process_management
+  475  ./process_management
+  476  cat ./process_management
+  477  cat .process_management
+  478  clear
+  479  cat myfirstbashscript.sh
+  480  .myfirstbashscript.sh
+  481  ./myfirstbashscript.sh
+  482  nano myfirstbashscript.sh
+  483  vi myfirstbashscript.sh
+  484  ls -lah
+  485  exit
+  486  ls -lah
+  487  ./task_Oksana.sh 
+  488  cat ./task_Oksana.sh 
+  489  cat myfirstbashscript.sh 
+  490  cd /310524-ptm
+  491  tree
+  492  ls -lah
+  493  ls -la /opt/310524-ptm/
+  494  ls -la /opt/310524-ptm/AlexKupra/
+  495  ls -lah
+  496  pwd
+  497  cd /opt/310524-ptm/
+  498  ls -lah
+  499  cd Oleksiy/
+  500  ls -lah
+  501  scp "C:\Users\User\AlexIT\ITCH\310524-ptm\learning_git\310524-ptm\Oleksiy_hw16.txt" ec2-user@linux.itcareerhub.de:"/opt/310524-ptm/Oleksiy/"
+  502  ls -la /opt/310524-ptm
+  503  scp "C:/Users/User/AlexIT/ITCH/310524-ptm/learning_git/310524-ptm/Oleksiy_hw16.txt" ec2-user@linux.itcareerhub.de:"/opt/310524-ptm/Oleksiy/"
+  504  ls -la /opt/310524-ptm/Oleksiy/
+  505  scp "C:/Users/User/AlexIT/ITCH/310524-ptm/learning_git/310524-ptm/Oleksiy_hw16.txt" ec2-user@linux.itcareerhub.de:"/opt/310524-ptm/Oleksiy/Oleksiy_hw16.txt"
+  506  exit
+  507  cd /opt/100624-wdm/Yanitska
+  508  vim premission_checker.sh
+  509  chmod +x premission_checker.sh 
+  510  ./premission_checker.sh 
+  511  vim premission_checker.sh
+  512  ./premission_checker.sh 
+  513  vim premission_checker.sh
+  514  ./premission_checker.sh 
+  515  vim premission_checker.sh
+  516  ./premission_checker.sh 
+  517  cd /opt/100624-wdm
+  518  ls
+  519  touch test.sh
+  520  cd /opt/100624-wdm/Yanitska
+  521  ./premission_checker.sh 
+  522  cd /opt/100624-wdm
+  523  ls
+  524  rm test.sh
+  525  ls
+  526  cd /opt/140624-wde/EvMaltseva
+  527  export EVGENIYA_VARIALE=140624-wde
+  528  date >> .process_management
+  529  echo "Welcome to Amazon server" >> .process_management
+  530  free -h >> .process_management
+  531  ps -ef | grep root | grep -v grep | wc -l
+  532  ps -ef | grep root | grep -v grep | wc -l >>.
+  533  ps -ef | grep root | grep -v grep | wc -l >> 
+  534  ps -ef | grep root | grep -v grep | wc -l >> .process_management
+  535  cat 
+  536  nano permission_checker.sh
+  537  ./permission_checker.sh
+  538  nano permission_checker.sh
+  539  chmod +x  permission_checker.sh
+  540  ./permission_checker.sh
+  541  ls -l /opt/310524-ptm
+  542  ./permission_checker.sh
+  543  ls -l /opt/310524-ptm
+  544  bash -n permission_checker.sh
+  545  find / -name pemission_checker.sh 2>/dev/null
+  546  find /opt/310524-ptm -name permission_checker.sh
+  547  cat /path/to/your/permission_checker.sh
+  548  ls -l /path/to/your/permission_checker.sh
+  549  find / -name pemission_checker.sh 2>/dev/null
+  550  exit
+  551  export EVGENIYA_VARIABLE=140624-wde
+  552  date >>.process_management
+  553  echo "Welcome to Amazon server" >>.process_management
+  554  free -h >>.process_management
+  555  ps -ef | grep root | grep -v grep | wc -l >>.process_management
+  556  env | grep -w "EVGENIYA_VARIABLE" >>.process_management
+  557  ps -ef | grep "/usr/sbin/sshd -D" | grep -v grep | awk '{print $2 " " $3}' >>.process_management
+  558  cat .process_management
+  559  exit
+  560  nano permission_checker.sh
+  561  chmod +x permission_checker.sh
+  562  ./permission_checker.sh
+  563  ls -l /opt/310524-ptm
+  564  ls -l *.sh
+  565  nano permission_checker.sh
+  566  chmod +x permission_checker.sh
+  567  ./permission_checker.sh
+  568  nano permission_checker.sh
+  569  chmod +x permission_checker.sh
+  570  ./permission_checker.sh
+  571  exit
+  572  env
+  573  clear 
+  574  pwd
+  575  cd opt
+  576  ls -la
+  577  cd 310524-ptm/
+  578  ls -la
+  579  pwd
+  580  ls -lah
+  581  cd AlexKupra/
+  582  ls -lah
+  583  ..
+  584  .
+  585  cd .
+  586  cd.
+  587  cd .
+  588  cd ..
+  589  pwd
+  590  export OLEKSIY_VARIABLE=310524-ptm
+  591  touch /opt/310524-ptm/Oleksiy/.process_management
+  592  date >> /opt/310524-ptm/Oleksiy/.process_management
+  593  echo "Welcome to Amazon server" >> /opt/310524-ptm/Oleksiy/.process_management
+  594  nano permission_checker.sh
+  595  chmod +x permission_checker.sh
+  596  ./permission_checker.sh
+  597  find / -name pemission_checker.sh 2>/dev/null
+  598  mail
+  599  find / -name pemission_checker.sh 2 > /dev/null
+  600  find / -name pemission_checker.sh
+  601  find / locate pemission_checker.sh
+  602  find / -name permission_checker.sh 2 > /dev/null
+  603  find / -name permission_checker.sh
+  604  nano permission_checker.sh
+  605  pwd
+  606  ls /home/ec2-user
+  607  find /home/ec2-user -name "permission_checker.sh"
+  608  mv /home/ec2-user/permission_checker.sh /opt/310524-ptm/AlexKupra/
+  609  ls /opt/310524-ptm/AlexKupra
+  610  ls -l /opt/310524-ptm/AlexKupra/
+  611  cat /opt/310524-ptm/AlexKupra/permission_checker.sh
+  612  scp ec2-user@linux.itcareerhub.de>:/opt/310524-ptm/AlexKupra/permission_checker.sh ~/Downloads/
+  613  scp -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de>:/opt/310524-ptm/AlexKupra/permission_checker.sh ~/Downloads/
+  614  ls -l /opt/310524-ptm/AlexKupra/
+  615  scp -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de>:/opt/310524-ptm/AlexKupra/permission_checker.sh ~/Загрузки/
+  616  ls -l /opt/310524-ptm/AlexKupra/
+  617  /opt/310524-ptm/AlexKupra/permission_checker.sh > script2.txt
+  618  export_file script2.txt
+  619  exit
+  620  cd opt
+  621  ls -al /opt/310524-ptm/
+  622  ls -al /opt/310524-ptm/Oleksiy
+  623  .process_management
+  624  ./process_management
+  625  cat ./process_management
+  626  cat process_management
+  627  cat .process_management
+  628  cat /process_management
+  629  echo history
+  630  history
+  631  export OLEKSIY_VARIABLE=310524-ptm && mkdir -p /opt/310524-ptm/Oleksiy && touch /opt/310524-ptm/Oleksiy/.process_management && date >> /opt/310524-ptm/Oleksiy/.process_management && echo "Welcome to Amazon server" >> /opt/310524-ptm/Oleksiy/.process_management && free -h | grep Mem >> /opt/310524-ptm/Oleksiy/.process_management && ps -u root --no-headers | wc -l >> /opt/310524-ptm/Oleksiy/.process_management && printenv | grep OLEKSIY_VARIABLE >> /opt/310524-ptm/Oleksiy/.process_management && ps -C "/usr/sbin/sshd -D" -o pid=,ppid= | awk '{print "PID " $1 " PPID " $2}' >> /opt/310524-ptm/Oleksiy/.process_management
+  632  history
+  633  cat /.process_management
+  634  cat /opt/310524-ptm/Oleksiy/.process_management
+  635  scp ec2-user@linux.itcareerhub.de:/opt/310524-ptm/Oleksiy/.process_management C:/Users/User/AlexIT/ITCH/Hausaufgaben/Linux_Github_HW
+  636  scp ec2-user@linux.itcareerhub.de:"/opt/310524-ptm/Oleksiy/.process_management" "C:/Users/User/AlexIT/ITCH/Hausaufgaben/Linux_Github_HW"
+  637  scp ec2-user@linux.itcareerhub.de:"/opt/310524-ptm/Oleksiy/.process_management" C:/Users/User/AlexIT/ITCH/Hausaufgaben/Linux_Github_HW
+  638  scp ec2-user@linux.itcareerhub.de:"/opt/310524-ptm/Oleksiy/.process_management" C:/Users/User/AlexIT/ITCH/Hausaufgaben/Linux_Github_HW/.process_management
+  639  scp ec2-user@linux.itcareerhub.de:"/opt/310524-ptm/Oleksiy/.process_management" C:\Users\User\AlexIT\ITCH\Hausaufgaben\Linux_Github_HW\.process_management
+  640  cat /.process_management
+  641  cat /opt/310524-ptm/Oleksiy/.process_management
+  642  exit
+  643  cd /opt/310524-ptm/Oleksiy/
+  644  ls -la
+  645  scp ec2-user@linux.itcareerhub.de:"/opt/310524-ptm/Oleksiy/.process_management" "C:/Users/User/AlexIT/ITCH/310524-ptm/learning_git/310524-ptm/.process_management" 
+  646  exit
+  647  pwd
+  648  ls -la /opt
+  649  ls -la /opt/310524-ptm
+  650  nano /opt/310524-ptm/AlexKupra/task_Alex.sh
+  651  chmod +x /opt/310524-ptm/AlexKupra/task_Alex.sh
+  652  crontab -e
+  653  crontab -l
+  654  cd /opt/310524-ptm/AlexKupra
+  655  tar -cvf AlexKupra_files.tar *.sh
+  656  crontab -e
+  657  ls /opt/310524-ptm/AlexKupra
+  658   /opt/310524-ptm/AlexKupra/task_Alex.sh
+  659  ls /opt/310524-ptm/AlexKupra
+  660  cat /opt/310524-ptm/AlexKupra/task_Alex.sh
+  661  ls /opt/310524-ptm/AlexKupra
+  662  crontab -l
+  663  ls /opt/310524-ptm/AlexKupra
+  664   /opt/310524-ptm/AlexKupra/task_Alex.sh
+  665  ls /opt/310524-ptm/AlexKupra
+  666  crontab -l
+  667  crontab -e
+  668  crontab -l
+  669  [ec2-user@ip-10-0-42-153 AlexKupra]$ ls /opt/310524-ptm/AlexKupra
+  670  10_18.08.24  2_18.08.24  4_18.08.24  6_18.08.24  8_18.08.24  AlexKupra_files.tar    task_Alex.sh
+  671  1_18.08.24   3_18.08.24  5_18.08.24  7_18.08.24  9_18.08.24  permission_checker.sh
+  672  [ec2-user@ip-10-0-42-153 AlexKupra]$ ls /opt/310524-ptm/AlexKupra
+  673  ls /opt/310524-ptm/AlexKupra
+  674  [ec2-user@ip-10-0-42-153 AlexKupra]$ ls /opt/310524-ptm/AlexKupra
+  675  10_18.08.24  2_18.08.24  4_18.08.24  6_18.08.24  8_18.08.24  AlexKupra_files.tar    task_Alex.sh
+  676  1_18.08.24   3_18.08.24  5_18.08.24  7_18.08.24  9_18.08.24  permission_checker.sh
+  677  crontab -l
+  678  crontab -e
+  679  crontab -l
+  680  crontab -e
+  681  ls /opt/310524-ptm/AlexKupra
+  682   /opt/310524-ptm/AlexKupra/task_Alex.sh
+  683  ls /opt/310524-ptm/AlexKupra
+  684  nano /opt/310524-ptm/AlexKupra/task_Alex.sh
+  685  ls /opt/310524-ptm/AlexKupra
+  686  nano /opt/310524-ptm/AlexKupra/task_Alex.sh
+  687  ls /opt/310524-ptm/AlexKupra
+  688  crontab -e
+  689  ls /opt/310524-ptm/AlexKupra
+  690  crontab -e
+  691  ls /opt/310524-ptm/AlexKupra
+  692  chmod +x /opt/310524-ptm/AlexKupra/task_Alex.sh
+  693  crontab -l
+  694  ls /opt/310524-ptm/AlexKupra
+  695   /opt/310524-ptm/AlexKupra/task_Alex.sh
+  696  nano /opt/310524-ptm/AlexKupra/task_Alex.sh
+  697  chmod +x /opt/310524-ptm/AlexKupra/task_Alex.sh
+  698   /opt/310524-ptm/AlexKupra/task_Alex.sh
+  699  ls /opt/310524-ptm/AlexKupra
+  700   /opt/310524-ptm/AlexKupra/task_Alex.sh
+  701  ls /opt/310524-ptm/AlexKupra
+  702  nano /opt/310524-ptm/AlexKupra/task_Alex.sh
+  703  chmod +x /opt/310524-ptm/AlexKupra/task_Alex.sh
+  704   /opt/310524-ptm/AlexKupra/task_Alex.sh
+  705  ls /opt/310524-ptm/AlexKupra
+  706  crontab -l
+  707  ls /opt/310524-ptm/AlexKupra
+  708  crontab -у
+  709  crontab -e
+  710  ls /opt/310524-ptm/AlexKupra
+  711   /opt/310524-ptm/AlexKupra/task_Alex.sh
+  712  ls /opt/310524-ptm/AlexKupra
+  713  crontab -e
+  714  crontab -l
+  715  tar -cvf AlexKupra_files.tar *
+  716  tar -tvf AlexKupra_files.tar
+  717  exit
+  718  cd /opt/100624-wdm/
+  719  ls
+  720  cd /opt/100624-wdm/Yanitska
+  721  ls
+  722  scp ec2-user@linux.itcareerhub.de:"/opt/100624-wdm/Yanitska/script_anastasiia.sh" script_anastasiia.sh
+  723  scp ec2-user@linux.itcareerhub.de:"/opt/100624-wdm/Yanitska/process_management.txt" process_management-txt 
+  724  scp ec2-user@linux.itcareerhub.de:"/opt/100624-wdm/Yanitska/process_management.txt" process_management.txt 
+  725  exit
+  726  nano .ssh/authorized_keys
+  727  exit
+  728  cat etc/crontab
+  729  crontab -l
+  730  cat /etc/crontab
+  731  nano .ssh/authorized_keys
+  732  exit
+  733  crontab -e
+  734  cat /etc/crontab
+  735  crontab -l
+  736  crontab -e
+  737  history 
+  738  nano .ssh/authorized_keys
+  739  exit
+  740  nano .ssh/authorized_keys
+  741  history
+  742  nano .ssh/authorized_keys
+  743  exit
+  744  scp ec2-user@linux.itcareerhub.de:"/opt/100624-wdm/Viktar/scriptFor.sh" scriptFor.sh
+  745  cd /opt/290724-ptm/
+  746  mkdir AndreyLapko
+  747  ls
+  748  exit
+  749  nano .ssh/authorized_keys
+  750  ls
+  751  pwd
+  752  cd
+  753  cd /opt
+  754  pwd
+  755  ls
+  756  mkdir /opt/290724-ptm
+  757  cd /opt/290724-ptm/
+  758  mkdir chumak
+  759  ls
+  760  ps -ef
+  761  ps -ef | grep ssh
+  762  exit
+  763  nano .ssh/authorized_keys
+  764  mkdir /opt/290724-ptm/Pylypenko
+  765  cd /opt
+  766  cd /opt/290724-ptm
+  767  ls
+  768  exit
+  769  history
+  770  nano .ssh/authorized_keys
+  771  ls
+  772  ls -a
+  773  df -h
+  774  pwd
+  775  cd /opt/290724-ptm
+  776  ls
+  777  mkdir Roman_Borenko
+  778  ls
+  779  tree /opt/
+  780  ls -la /opt/
+  781  ls -la /opt/290724-ptm
+  782  exit
+  783  tar --help
+  784  exit
+  785  nano .ssh/authorized_keys
+  786  ls-al
+  787  ls -al
+  788  cd
+  789  [ec2-user@ip-10-0-42-153 ~]$ nano .ssh/authorized_keys .ssh/authorized_keys
+  790  pwd
+  791  cd
+  792  cd /opt
+  793  ls
+  794  cd /opt/290724-ptm/
+  795  mkdir Habelko_Vladyslav
+  796  cat /opt/290724-ptm/
+  797  ls /opt/290724-ptm/
+  798  nano .ssh/authorized_keys
+  799  exit
+  800  history
+  801  nano .ssh/authorized_keys
+  802  clear
+  803  ls
+  804  la -a
+  805  ls -la
+  806  pwd
+  807  cd opt/
+  808  ls -l
+  809  cd 310524-ptm/
+  810  mkdir mutaf
+  811  pwd
+  812  ls
+  813  cd..
+  814  cd ..
+  815  ls -l
+  816  cd
+  817  cd /opt
+  818  ls -l
+  819  cd 290724-ptm/
+  820  ls -l
+  821  mkdir Mutaf
+  822  ls 
+  823  exit
+  824  nano .ssh/authorized_keys
+  825  tree
+  826  tree /
+  827  cd
+  828  pwd
+  829  tree /home
+  830  ls -l /home/ec2-user
+  831  зцв
+  832  pwd
+  833  cd /opt
+  834  ls
+  835  cd /opt
+  836  ls
+  837  cd /290724-ptm
+  838  ped
+  839  pwd
+  840  ls
+  841  cd /opt/290724-ptm/
+  842  mkdir OOlepir
+  843  ls
+  844  cd /opt/290724-ptm/
+  845  mkdir ELENA
+  846  tree
+  847  cd /opt/290724-ptm/ELENA
+  848  ls -la
+  849  cd/opt
+  850  cd/opt/
+  851  cd
+  852  cd /opt/
+  853  ls -la
+  854  cd /opt/140624-wde/
+  855  ls -la
+  856  mkdir ALopin
+  857  ls -la
+  858  ls -la /opt/140624-wde/EvMaltseva/
+  859  ls -la /opt/140624-wde/OYasynetska/
+  860  ls -la /opt/140624-wde/OYasynetska/..
+  861  ls -la /opt/140624-wde/RomanK/
+  862  ls -la /opt/140624-wde/ALopin/
+  863  ls -la /opt/140624-wde/VAndreev/
+  864  cat test.txt
+  865  cd /opt/140624-wde/
+  866  cd VAndreev/
+  867  cat test.txt 
+  868  cd
+  869  cd /opt/140624-wde/ALopin/
+  870  pwd
+  871  pwd >> /opt/140624-wde/ALopin/HW5.txt
+  872  scd ec2-user@linux.itcareerhub.de:/opt/140624-wde/ALopin/HW5.txt 
+  873  exit
+  874  cd /opt/310524-ptm/
+  875  ls -al
+  876  cd VAndreev/
+  877  ls -al
+  878  cat make_files.sh 
+  879  ls -al
+  880  find /opt/310524-ptm/ -type f -name task*
+  881  cat /opt/310524-ptm/OAndrei/task_OAndrei.sh 
+  882   /opt/310524-ptm/OAndrei/task_OAndrei.sh 
+  883  ls -al /opt/310524-ptm/OAndrei/
+  884  chmod +x /opt/310524-ptm/OAndrei/task_OAndrei.sh 
+  885   /opt/310524-ptm/OAndrei/task_OAndrei.sh 
+  886  ls -al /opt/310524-ptm/OAndrei/
+  887  ls -al
+  888  rm -r *.24
+  889  ls -al
+  890  cat /opt/310524-ptm/OAndrei/task_OAndrei.sh 
+  891  exit
+  892  nano .ssh/authorized_keys
+  893  nano .ssh/authorized_keys
+  894  scd ec2-user@linux.itcareerhub.de:/opt/140624-wde/ALopin/HW5.txt /Users/alexislopin/Desktop/HW5.txt
+  895  scp ec2-user@linux.itcareerhub.de:/opt/140624-wde/ALopin/HW5.txt /Users/ale
+  896  history >> /Users/alexislopin/Desktop/server1.txt
+  897  cat /opt/140624-wde/ALopin/HW5.txt 
+  898  exit
+  899  cd /opt/310524-ptm/AlexKupra
+  900  ls-la
+  901  ls -l
+  902  rm task_Alex.sh
+  903  ls -l
+  904  rm AlexKupra_files.tar
+  905  ls -l
+  906  nano task_Aleksei.sh
+  907  ls -l
+  908  exit
+  909  ps -ef
+  910  ps -ef | grep sshd
+  911  exit
+  912  ls /opt/290724-ptm/
+  913  exit
+  914  crontab -e
+  915  watch cat /opt/hi-cron.txt
+  916  crontab -e
+  917  cd /opt/100624-wdm
+  918  ls
+  919  tar -czvf Viktar.tar.gz ./Viktar/
+  920  ls
+  921  tar -tf Viktar.tar.gz 
+  922  tar --help
+  923  ls
+  924  tar -xzvf Viktar.tar.gz -C Viktar-copy.tar.gz
+  925  tar -xzvf Viktar-copy -C Viktar.tar.gz
+  926  tar -xzvf Viktar.tar.gz -C Viktar/
+  927  cd Viktar/
+  928  ls
+  929  cd Viktar/
+  930  ls
+  931  cd ..
+  932  ll
+  933  mkdir /opt/290724-ptm/Kirill_Maiorov
+  934  tree /opt/
+  935  ls -la /opt/290724-ptm/
+  936  cd /opt
+  937  mkdir /opt/290724-ptm
+  938  cd /opt/290724-ptm
+  939  mkdir innaya
+  940  ls
+  941  cd /opt/290724-ptm/
+  942  ls -al
+  943  mkdir Svetlana_Pliasova
+  944  ls -al
+  945  exit
+  946  ls 
+  947  ls /opt
+  948  ls/
+  949  ls /
+  950  ls /opt/290724-ptm/
+  951  cd /opt/290724-ptm/Habelko_Vladyslav/
+  952  mkdir /Projects && touch /Projects/Note
+  953  mkdir Projects && touch /Projects/Note
+  954  mkdir Project
+  955  cd Project
+  956  touch Note
+  957  cat Note
+  958  rm Note
+  959  ls
+  960  ls '-al
+  961  `
+  962  ls -al
+  963  q
+  964  cd ..
+  965  ls 
+  966  rm Project
+  967  rm Projects
+  968  ls
+  969  rm dir Project
+  970  rmdir Project
+  971  rmdir Projects
+  972  ls
+  973  ls -al
+  974  mkdir Project
+  975  touch Note.txt
+  976  cat Note.txt
+  977  echo "Hello World" Note.txt
+  978  cat Note.txt
+  979  nano Note.txt
+  980  cat Note.txt
+  981  date +%D >> Note.txt
+  982  nano Note.txt
+  983  cat Note.txt
+  984  exit
+  985  nano .ssh/authorized_keys
+  986  cd /opt/
+  987  ls
+  988  mkdir chumak
+  989  cd chumak/
+  990  ls
+  991  cat test
+  992  cat test.txt 
+  993  exit
+  994  ls 
+  995  ls -la
+  996  cd /
+  997  ls
+  998  cd opt
+  999  ls
+ 1000  cd 100624-wdm/Volodymyr
+ 1001  ls
+ 1002  touch VOLODYMYR.sh
+ 1003  chmod +x VOLODYMYR.sh 
+ 1004  vim VOLODYMYR.sh 
+ 1005  cat VOLODYMYR.sh 
+ 1006  crontab -e
+ 1007  pwd
+ 1008  crontab -e
+ 1009  history > command_history.txt
