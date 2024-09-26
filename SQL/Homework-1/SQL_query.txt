@@ -1,0 +1,14 @@
+1. SELECT * FROM hr.employees WHERE job_id = 'IT_PROG';
+2. SELECT * FROM hr.employees WHERE job_id = 'AD_VP';
+3. SELECT * FROM hr.employees WHERE job_id = 'IT_PROG'
+   UNION 
+   SELECT * FROM hr.employees WHERE job_id = 'AD_VP';
+4.1. SELECT * FROM hr.employees WHERE salary BETWEEN 10000 AND 20000;
+4.2. SELECT * FROM hr.employees WHERE department_id NOT IN (60, 30, 100);
+4.3. SELECT * FROM hr.employees WHERE first_name LIKE '%ll%';
+4.4. SELECT * FROM hr.employees WHERE last_name LIKE '%a';
+5. SELECT * FROM hr.employees WHERE salary > 10000;
+6. SELECT * FROM hr.employees WHERE salary > 10000 AND last_name Like 'L%';
+7. Запрос будет возвращать всех сотрудников из таблицы, не зависимо от их зарплаты.
+8. Запрос будет возвращать всех сотрудников из таблицы, зарплата у которых не равна 10000.
+9. Запрос будет возвращать пустой список, т. к. ни один сотрудник не сможет удовлетворить обоим условиям одновременно.
