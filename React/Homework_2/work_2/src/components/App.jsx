@@ -12,6 +12,7 @@ function App() {
   return (
     <div>
       <Greeting name="Андрей" />
+      <Greeting />
       <ShoppingList elements={items} />
       {orders.map((order) => (
         <OrderStatus
