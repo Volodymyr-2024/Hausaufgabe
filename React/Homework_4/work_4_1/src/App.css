@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.city_card {
+  background-color: rgb(127, 214, 156);
+  max-width: 1280px;
+  padding: 30px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(130, 190, 125);
+  border: 5px solid #e6f064;
+  border-radius: 20px;
+}
