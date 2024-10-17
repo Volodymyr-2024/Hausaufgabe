@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Arial", sans-serif;
+}
+.container {
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  background-color: rgb(154, 92, 235);
+  padding: 10px 20px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px grey;
+  margin-top: 30px;
+}
+.button:hover {
+  background-color: rgb(233, 114, 98);
+}
+.text {
+  color: rgb(202, 164, 238);
+  font-size: 46px;
+  text-shadow: 5px 5px 10px rgb(190, 178, 178);
+}
