@@ -3,7 +3,7 @@ import { useForm } from "react-hook-form";
 import styles from "../styles/PostForm.module.css";
 
 export default function PostForm({ fetchData }) {
-  const { register, handleSubmit, watch } = useForm();
+  const { register, handleSubmit, reset } = useForm();
 
   const sendPostRequest = async (data) => {
     const url = "https://6718a7eb7fc4c5ff8f4a6aed.mockapi.io/posts";
@@ -18,6 +18,7 @@ export default function PostForm({ fetchData }) {
       const result = await response.json();
       console.log("Ответ сервера:", result);
       fetchData();
+      reset();
     } catch (error) {
       console.error("Ошибка при отправке:", error);
     }
@@ -27,9 +28,6 @@ export default function PostForm({ fetchData }) {
     console.log(data);
     sendPostRequest(data);
   }
-
-  const heading = watch("heading");
-  const content = watch("content");
 
   return (
     <div className={styles.container}>
