@@ -1,0 +1,6 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 64px;
+  padding-bottom: 102px;
+}

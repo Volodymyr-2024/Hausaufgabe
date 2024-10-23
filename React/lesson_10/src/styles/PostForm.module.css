@@ -1,0 +1,26 @@
+.container {
+  width: 507px;
+  background-color: #7d9fff;
+  margin-right: 130px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 124px;
+  padding-top: 60px;
+}
+form{
+    background-color: #3F5CC0;
+    padding: 30px 26px 30px 67px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+input{
+    font-size: 16px;
+}
+form > button{
+    background-color: #0D3D30;
+    font-size: 16px;
+    padding: 9px 11px;
+}

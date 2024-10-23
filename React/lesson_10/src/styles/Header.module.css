@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  align-items: center;
+  background-color: #3f5cc0;
+}
+.img_container {
+  margin: 38px 365px 38px 130px;
+}
+.menu {
+  display: flex;
+  gap: 124px;
+}
+.menu > li {
+  list-style: none;
+  font-size: 16px;
+  font-weight: 800;
+  color: #090808;
+}
