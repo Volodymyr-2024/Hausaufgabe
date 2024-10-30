@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-size: 18px;
+}
+.container > button {
+  background-color: rgb(54, 99, 223);
+  color: white;
+  padding: 10px;
+  font-size: 18px;
+  margin-right: 80px;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: none;
+}

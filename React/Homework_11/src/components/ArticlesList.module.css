@@ -1,0 +1,10 @@
+.container {
+  /* margin-bottom: 550px; */
+}
+.list {
+  margin-top: 20px;
+}
+.list > a > li {
+  margin-bottom: 5px;
+  font-size: 18px;
+}
