@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  max-width: 400px;
+  margin: 100px auto;
+}
+hr {
+  height: 7px;
+  background-color: #353333;
+  margin-bottom: 20px;
+}
+.input_container {
+  margin: 0 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.value_container {
+  padding-bottom: 20px;
+}
+p {
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+input {
+  font-size: 18px;
+}
