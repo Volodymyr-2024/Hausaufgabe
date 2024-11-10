@@ -4,7 +4,7 @@ import styles from "../styles/UserList.module.css";
 
 function UserList({ users, filter }) {
   function filteredUsers(users, filter) {
-    let filterTrim = filter.trim()
+    let filterTrim = filter.trim();
     return users.filter((user) => {
       if (user.length < filterTrim.length) {
         return false;
