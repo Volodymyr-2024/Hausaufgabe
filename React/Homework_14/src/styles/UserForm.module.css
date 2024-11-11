@@ -1,0 +1,13 @@
+.container > h2 {
+  text-align: center;
+  margin: 20px 0 10px;
+}
+.second_input_container {
+  margin: 20px 0;
+}
+.first_input_container > p {
+  margin-top: 5px;
+}
+.second_input_container > p {
+  margin-top: 5px;
+}
