@@ -37,6 +37,7 @@ const users = [
 
 function App() {
   const [filter, setFilter] = useState("");
+
   const filterUsers = useCallback((filter) => {
     const trimFilter = filter.trim().toLowerCase();
     return users.filter((user) =>
