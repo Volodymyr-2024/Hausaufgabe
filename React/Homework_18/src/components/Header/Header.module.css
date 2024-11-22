@@ -1,0 +1,21 @@
+.header {
+  background-color: #3b3c3d;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.snicker > h1 {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 900;
+  margin: 43px 0 43px 250px;
+}
+.nav {
+  margin-right: 250px;
+}
+.navlink {
+  font-size: 15px;
+  font-weight: 700;
+  margin-left: 64px;
+  text-decoration: none;
+}

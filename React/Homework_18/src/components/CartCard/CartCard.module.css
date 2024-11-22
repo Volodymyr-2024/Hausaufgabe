@@ -1,0 +1,50 @@
+.card {
+  width: 903px;
+  display: flex;
+  align-items: center;
+  padding-bottom: 67px;
+}
+.image {
+  width: 197px;
+  height: 90px;
+  object-fit: cover;
+}
+.card > hr {
+  margin: 0 36px;
+  height: 98px;
+  border: 1px solid #00000080;
+}
+.card > h3 {
+  font-size: 24px;
+  font-weight: 400;
+  margin: 38px 20px 38px 0;
+  width: 288px;
+}
+.price_container {
+  display: block;
+}
+
+.price_name {
+  font-size: 14px;
+  font-weight: 500;
+  text-transform: uppercase;
+  color: #666666;
+}
+.price {
+  margin-top: 12px;
+  font-size: 24px;
+  font-weight: 700;
+}
+.button {
+  background-image: url("../../assets/cart.svg");
+  background-color: transparent;
+  cursor: pointer;
+  width: 30px;
+  height: 31px;
+  border: none;
+  margin: 29px 23px 29px 137px;
+  transition: transform 0.3s ease;
+}
+.button:hover {
+  transform: scale(1.2);
+}

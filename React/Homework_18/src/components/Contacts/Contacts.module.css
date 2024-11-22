@@ -1,0 +1,101 @@
+.contacts {
+  min-height: calc(100vh - 447px);
+  margin: 0 250px;
+}
+.contacts > h2 {
+  margin: 50px 0;
+  font-size: 36px;
+  font-weight: 700;
+}
+.contacts > hr {
+  color: rgba(234, 234, 234, 1);
+}
+.contacts > ul {
+  margin: 116px 0 92px;
+}
+.contacts > ul > li {
+  margin-bottom: 13px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 81%;
+  color: #00000080;
+  margin-left: 20px;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  gap: 79px;
+}
+.form {
+  width: 767px;
+}
+.form > textarea {
+  margin: 39px 0 31px;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 28px 0 73px 21px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 81%;
+  color: #00000080;
+  font-family: "Montserrat", sans-serif;
+  background-color: #fafafa;
+  border: none;
+  border-radius: 10px;
+  resize: none;
+}
+.input {
+  display: flex;
+  justify-content: space-between;
+  gap: 39px;
+}
+.input > input {
+  width: 364px;
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 18px;
+  padding: 25px 21px;
+  border: none;
+  background-color: #fafafa;
+  border-radius: 10px;
+  font-family: "Montserrat", sans-serif;
+}
+.container_icons {
+  margin-right: 366px;
+  background-color: #fafafa;
+  border-radius: 10px;
+  margin-bottom: 730px;
+}
+.container_icons > h4 {
+  margin: 18px 0 39px;
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 81%;
+}
+.container_icons > h4 {
+  text-align: center;
+}
+.icons {
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+  padding: 0 65px;
+}
+.icons > a > img {
+  transition: transform 0.3s ease;
+}
+.icons > a > img:hover {
+  transform: translate(0, -10px);
+}
+.button {
+  float: right;
+  margin-bottom: 646px;
+  background-color: #090d1a;
+  padding: 21px 25px;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}

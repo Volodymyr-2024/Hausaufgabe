@@ -1,0 +1,48 @@
+.card {
+  height: 393px;
+  border: 1px solid #00000026;
+  border-radius: 42px;
+}
+
+.card > img {
+  width: 278px;
+  height: 127px;
+  object-fit: cover;
+  margin: 49px 54px 32px;
+}
+.card > h3 {
+  font-size: 24px;
+  font-weight: 400;
+  margin: 0 63px 42px 39px;
+}
+.price_name {
+  font-size: 14px;
+  font-weight: 500;
+  color: #666666;
+  text-transform: uppercase;
+  margin-left: 39px;
+}
+.price {
+  font-size: 24px;
+  font-weight: 700;
+  color: #000000;
+  margin: 0 0 39px 39px;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+.button {
+  width: 37px;
+  height: 37px;
+  border: none;
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  margin: 12px 44px 39px 0;
+  background-image: url("../../assets/button.svg");
+  cursor: pointer;
+}
+.button:hover {
+  background-image: url("../../assets/button_hover.svg");
+}

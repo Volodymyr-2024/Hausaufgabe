@@ -1,0 +1,13 @@
+.news {
+  margin: 0 auto;
+  padding: 28px 240px 72px 240px;
+  max-width: 100%;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  max-width: 1428px;
+  display: block;
+  margin: 0 auto;
+}

@@ -1,0 +1,19 @@
+.main {
+  min-height: calc(100vh - 447px);
+  margin-bottom: 172px;
+}
+.main > h1 {
+  margin: 0 0 37px 250px;
+  font-size: 36px;
+  font-weight: 700;
+}
+.main > hr {
+  margin: 0 250px 45px 250px;
+  color: #eaeaea;
+}
+.products {
+  margin: 0 250px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 131px;
+}
