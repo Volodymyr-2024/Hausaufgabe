@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  max-width: 400px;
+  margin: 20px auto;
+}
+h1{
+    margin-bottom: 15px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
