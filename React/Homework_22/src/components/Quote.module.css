@@ -1,0 +1,27 @@
+.container {
+  width: 868px;
+  margin: 20px auto;
+}
+.container_quote {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 200px;
+}
+.quote {
+  margin: 20px 0 20px 20px;
+  font-size: 18px;
+  align-self: flex-start;
+}
+.author {
+  align-self: flex-end;
+  font-size: 22px;
+  font-weight: 600;
+}
+.container > button {
+  margin-bottom: 20px;
+  color: #fff;
+  background-color: rgb(84, 108, 187);
+  padding: 10px 20px;
+  border: none;
+}
