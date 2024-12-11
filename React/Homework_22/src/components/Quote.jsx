@@ -15,7 +15,9 @@ function Quote() {
     <div className={styles.container}>
       <h1>Random Quote Generator</h1>
       {status === "loading" && (
-        <p style={{ margin: "20px", fontSize: "24px" }}>Loading...</p>
+        <p style={{ padding: "20px", fontSize: "24px", minHeight: "150px" }}>
+          Loading...
+        </p>
       )}
       {status === "failed" && <p>Error: {error}</p>}
       {status === "succeeded" && (
