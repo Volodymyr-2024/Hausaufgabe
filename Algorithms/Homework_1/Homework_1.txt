@@ -1,0 +1,11 @@
+START
+    Initialize sum to 0
+    For i = 1 to 3:
+        Repeat until valid input:
+            Prompt user for number i
+            If input is empty or not a number:
+                Show "Введите корректное число"
+        Add valid input to sum
+    End For
+    Show "Сумма введенных чисел равна: sum"
+END 
