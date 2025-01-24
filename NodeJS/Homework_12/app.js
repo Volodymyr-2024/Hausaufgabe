@@ -27,7 +27,7 @@ app.post("/products", async (req, res) => {
     if (!product.name || !product.price || !product.description) {
       return res
         .status(400)
-        .json({ error: "Name, proce and description are required" });
+        .json({ error: "Name, price and description are required" });
     }
     const result = await db.collection("products").insertOne(product);
     res.status(201).json(product);
