@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3333;
 connectDB();
 
 app.get("/", (req, res) => {
-  res.status(200).json({ message: "Hellow, World!" });
+  res.status(200).json({ message: "Hello, World!" });
 });
 
 app.listen(PORT, () => {
