@@ -1,6 +1,7 @@
 function letterCounter(text) {
   text = text.toLowerCase().replace(/[^a-zäöüß]/g, "");
   let frequency = {};
+  console.log(text);
 
   for (let i = 0; i < text.length; i++) {
     let char = text[i];
